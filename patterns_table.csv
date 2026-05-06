@@ -1,0 +1,454 @@
+﻿description,pattern
+Transmission,^Transmission$
+Mastodon,^Mastodon$
+Logitech Media server,^Logitech Media Server \(([0-9.]+) - [0-9]+\)$
+Perl web server,^libwww-perl-daemon/([.0-9]+)$
+BASHttpd,^BASHttpd/([\d.]+)
+Monit,^monit ([\d.]+)$
+Envoy Proxy Envoy,^envoy$
+Istio custom Envoy Proxy,^istio-envoy$
+Etherpad,^Etherpad
+JFrog’s Artifactory repository management,^Artifactory/([\d.]+)$
+Cowboy HTTP server,^Cowboy$
+"Apple AirTunes/AirPlay, more generally RTSP used by a variety of wireless a/v products",(?i)^AirTunes/([\d\.]+)$
+cPanel Service Daemon,(?i)^cpsrvd(?:/([\d\.]+))?$
+Plesk Control Panel Server,^sw-cp-server$
+Control Web Panel (CWP) (formerly CentOS Web Panel) - web hosting control panel web server,(?i)^cwpsrv$
+Red Hat Stronghold Enterprise Apache,^Stronghold/(\d\.\d) Apache/([012][\d.]*)\s*(.*)$
+Apache returning only its major version number,(?i)^Apache/\d$
+Apache returning just version number,^Apache ([\d.]+)$
+Apache returning no version information,(?i)^Apache$
+Apache,(?i)^Apache(?:-AdvancedExtranetServer)?(?:/([012][\d.]*)\s*(.*))?$
+Apache CouchDB,(?i)^CouchDB/([\.\d]+)
+Array Networks device,^support@arraynetworks.net$
+Check Point Firewall NG,^Check Point SVN foundation$
+Check Point Firewall NG - short version,^CPWS$
+Microsoft IIS 1.0 - 4.0 runs on Windows NT 4.0,^Microsoft-IIS/([1234]\.0)$
+Microsoft IIS 5.0 runs on Windows 2000,^Microsoft-IIS/5.0$
+Microsoft IIS 5.1 runs on Windows XP,^Microsoft-IIS/5.1$
+Microsoft IIS 6.0 runs on Windows Server 2003 (and Windows XP x64),^Microsoft-IIS/6.0$
+Microsoft IIS 7.0 runs on Windows Server 2008 (and Windows Vista),^Microsoft-IIS/7.0$
+Microsoft IIS 7.5 runs on Windows Server 2008 R2 (and Windows 7),^Microsoft-IIS/7.5$
+Microsoft IIS 8.0 runs on Windows Server 2012 (and Windows 8),^Microsoft-IIS/8.0$
+Microsoft IIS 8.5 runs on Windows Server 2012 R2 (and Windows 8.1),^Microsoft-IIS/8.5$
+Microsoft IIS 10.0 runs on Windows Server 2016 and 2019,^Microsoft-IIS/10.0$
+"Microsoft IIS new, unknown Windows version",^Microsoft-IIS/([\d\.]+)$
+"Microsoft IIS, no version information",^Microsoft-IIS$
+Microsoft .NET Remoting and Common Language Runtime (CLR),"^MS .NET Remoting, MS .NET CLR (\d+\.\d+\.\d+\.\d+)$"
+"Windows CE embedded devices, including HP iPAQ, Palm Treo, Motorola phones, and many more",^Microsoft-WinCE/(\d\.\d+)$
+"Microsoft Personal Web Server runs on Windows 9x, ME, etc.",^Microsoft-PWS/(\d\.\d+)$
+Microsoft Personal Web Server for Windows 95,^Microsoft-PWS-95/(\d\.\d+)$
+Firefly Media Server,(?i)^mt-daapd(?:/(.+))?$
+HTTP connector for Apache Tomcat to run as a standalone HTTP server - Coyote variant,^Apache[ -]Coyote/(\d\.\d)$
+HTTP connector for Apache Tomcat with no version,^Apache Tomcat$
+JBoss with embedded Tomcat,^Servlet [\d\.]+; JBoss-(\S+) \(build: .*\)/Tomcat-(\S+)$
+JBoss with embedded Tomcat - Tomcat build variant,^Servlet [\d\.]+; Tomcat-(\S+)/JBoss-(\S+) \(build: .*\)$
+JBoss with JBossweb,^Servlet [\d\.]+; JBoss-([\S]+)(?: \(build.*)?/JBossWeb-(\S+)$
+JBoss AS,^Servlet\/[\d\.]+; JBossAS-(.*)$
+JBoss EAP,^JBoss-EAP\/(\d+)$
+HTTP connector for Apache Tomcat to run as a standalone HTTP server - Apache variant,^Apache Tomcat/(\d\.[\d.]+)(?:-LE-jdk14)? \(HTTP/1.1 Connector\)$
+HTTP connector for Apache Tomcat to run as a standalone HTTP server,^Tomcat Web Server/(\d\.[\dA-Z.]+)(?: Final)?(?:\s\(([^\)]+)\))?$
+Apache Tomcat with version information,^(?:Apache )?Tomcat/([\d.]+)$
+Merit LILIN PDR M800,^PDR-M800/1.0$
+PHP,^PHP/(\S+)$
+PHP with ZendServer,^PHP/(\S+)\s+ZendServer/\S+$
+Oracle Application Server Containers for J2EE 10g,^Oracle Application Server Containers for J2EE 10g \(([\d.]+)\)$
+Oracle Application Server Containers for J2EE,^Oracle Containers for J2EE$
+Oracle Application Server 10g with Apache info (powered by Apache),^Oracle Application Server/10g \(([\d.]+)\) Apache/([12][\d.]+)\s*(.*)$
+Oracle Application Server,"^Oracle-Application-Server-\d+[cgi](?:(?:[ /]([\d.]+))?\s*((?:Oracle-HTTP-Server|Oracle-Web-Cache-|OracleAS-Web-Cache-)?.{0,512})?(?:\s*\([TF]?[HSUGMN]?(?:;max-age=\d+(?:\+\d+)?)?(?:;age=\d+)?;ecid=[^)]+\))?)?$"
+Oracle 9i Application Server,^Oracle9iAS/([\d.]+) Oracle HTTP Server\s*(.*)$
+Oracle HTTP Server (powered by Apache) - version string variant,^Oracle HTTP Server Powered by Apache/([12][\d.]*)\s*(.*)$
+Oracle HTTP Server (powered by Apache),^Oracle HTTP Server Powered by Apache$
+Oracle HTTP Server,"^Oracle-HTTP-Server(?:(?:-(?:\d{2}[cg]\/?)?([\d.]+)?(?:\/[\d.]+)?)?(?:.{0,512}\([TF]?[HSUGMN]?(?:;max-age=\d+(?:\+\d+)?)?(?:;age=\d+)?;ecid=[^)]+\))?)?$"
+Oracle Web Cache,^Oracle-Web-Cache-11g/([\d.]+)(?:\s*\([TF]?[HSUGMN]?(?:;max-age=\d+(?:\+\d+)?)?(?:;age=\d+)?;ecid=[^)]+\))?$
+Oracle Application Server Web Cache,^OracleAS-Web-Cache-10g/([\d.]+)
+"Oracle iPlanet Web Server (formerly known as Sun Java System Web Server, Sun ONE Web Server)",^Oracle-iPlanet-Web-Server/([\d.]+)$
+Oracle(R) Integrated Lights Out Manager Web Server,^Oracle-ILOM-Web-Server/([\d.]+)$
+Apache running on HP-UX,^HP Apache-based Web Server/([012][\d.]*)\s*\(Unix\)\s*(.*)$
+HP/Compaq HTTP Server,^CompaqHTTPServer/([0-9.]*)(?: HP System Management Homepage(?:/.*)?)?$
+HP System Management Homepage (SMH),^HPSMH$
+HTTP Server present on seemingly only HP ProCurve network devices,(?i)^eHTTP[/ ]v?(\d+\.\d+)
+HP Openview Coda (Communications Daemon),^(?:BBC \d+\.\d+\.\d+\.?\d*; )?(?:com.hp.openview.)?[c|C]oda (\d+\.\d+\.\d+\.?\d*)$
+OpenView Reverse Channel Proxy (RCP),^BBC \d+\.\d+\.\d+\.?\d*; ovbbcrcp (\d+\.\d+\.\d+\.?\d*)$
+HP Openview LLBServer (Local Location Broker),^(?:BBC \d+\.\d+\.\d+\.?\d*; )?com.hp.openview.bbc.LLBServer (\d+\.\d+\.\d+\.?\d*)$
+OpenView Communication Broker (ovbbccb),^BBC \d+\.\d+\.\d+; ovbbccb (\d+\.\d+\.\d+)$
+OpenView Communication Broker (ovbbccb) with no version,^BBC \d+\.\d+\.\d+; ovbbccb unknown version$
+HTTP Server that appears unique to Management Console on HP TippingPoint IPS Devices,^UOS$
+Xiongmai Tech uc-httpd,^uc-httpd[ \/]([\d.]+)$
+ACME micro_httpd,^micro_httpd$
+ACME mini_httpd,^mini_httpd$
+LiteSpeed,^LiteSpeed\/?([\d.]+)?(?: \S+)?
+Idea Web Server,^IdeaWebServer\/v?([\d.]+)$
+OpenResty OpenResty,^openresty\/?([\d.]+)?$
+Gunicorn with version,^gunicorn\/(\d+(?:\.\d+)*)$
+Gunicorn with no version,^gunicorn$
+Serv-U HTTP interface,^Serv-U\/([\d.]+)$
+Wing FTP HTTP interface - with version,^Wing FTP Server/([\d.]+)\([^)]*\)$
+Wing FTP HTTP interface - no version,^Wing FTP Server\([^)]*\)$
+Sonos Bridge/ZoneBridge,(?i)^Linux UPnP/1.0 Sonos/([\d\.\-a-z]+) \((BR\d+)\)$
+Sonos Subwoofer Speaker,(?i)^Linux UPnP/1.0 Sonos/([\d\.\-a-z]+) \(ANVIL\)$
+Sonos PLAY/ZonePlayer wireless speaker,(?i)^Linux UPnP/1.0 Sonos/([\d\.\-a-z]+) \(ZP(S?\d+)\)$
+Sonos Wireless Dock,(?i)^Linux UPnP/1.0 Sonos/([\d\.\-a-z]+) \(WD(\d+)\)$
+Varnish Cache,^Varnish(?:[- ]Cache)?$
+Tengine,^Tengine\/?([\d.]+)?$
+MikroTik RouterOS - Proxy service,^Mikrotik HttpProxy$
+RealMedia Helix Server - Windows,^Helix Server Version ([0-9.]*) \(win32\) \(RealServer compatible\)$
+RealMedia Helix Server - Linux,^Helix Server Version ([0-9.]*) \(linux-\S+\) \(RealServer compatible\)$
+Shenzhen ReeCam cameras,^ReeCam IP Camera$
+Netwave cameras,^Netwave IP Camera$
+Windows Media Services (older versions),^Cougar/([0-9.]*)$
+Windows Media Services (newer versions),^WMServer/([0-9.]*)$
+Generic Microsoft HTTP service,^Microsoft-HTTPAPI/(?:[0-9\.]*)$
+Generic IP Cameras,"(?i)^(?:(?:Cube|(?:Mini )?Dome|Day/Night|PAN/?Tilt|POE|IR|HD|H.264|Surveillance|With|Wired|Wireless(?: N)?|Network|Internet|(?:IP(?:[\s_-])?)?Cameras?[\s_]*\d*) ?){1,5}?(?: Login)?$"
+Something written in ASP.NET,^ASP.NET$
+Xitami web server,^[Xx]itami$
+Bosch VCS VIDOS-NVR network video recorder,^VCS-VIDOS-NVR$
+FUHO Surveillance/DVR,^FUHO-DVR$
+HeiTel Digital Video Recorder,^HeiTel GmbH Web Server \[\S+\]$
+mini_httpd,^MiniServ/([0-9.]*)$
+IBM HTTP server running on AS/400,^IBM HTTP Server/(V\d+R\d+M\d+)$
+IBM HTTP Server,^(?:IBM_HTTP_Server|IBM_HTTP_SERVER)/([\w.-]+)\s+Apache/([12][\d.]+)\s*(.*)$
+IBM HTTP Server with hardly useful version info,(?i)^(?:IBM_HTTP_SERVER|IBM-HTTP-SERVER)/(\S+)(?: \(\S+\))?$
+IBM HTTP Server with no version info,(?i)^(?:IBM_HTTP_SERVER|IBM-HTTP-SERVER)$
+"Sun Java System Application Server (formerly iPlanet Application Server, Sun ONE Application Server)",^Sun[ -]Java[ -]System[ /]Application[ -]Server(?:\s+(\d\.[\d_]+))?$
+"Sun Java System Application Server Platform Edition(formerly iPlanet Application Server, Sun ONE Application Server)",^Sun[ -]Java[ -]System[ /]Application[ -]Server Platform Edition (\d\.[\d_]+)?$
+Glassfish with version information,^Sun GlassFish Enterprise Server v(\S+)$
+Glassfish Open Source Edition with version information,^GlassFish Server Open Source Edition\s+(\S+)$
+Oracle GlassFish Server,^Oracle GlassFish Server ([\d.]+)$
+Glassfish without version information,^GlassFish$
+"Netscape Enterprise Server (subsequently iPlanet Web Server, Sun ONE Web Server, presently Sun Java System Web Server)",^Netscape-Enterprise/(\d+\.[\w\s.]+)$
+"Sun Java System Web Server (formerly Netscape Enterprise Server, iPlanet Web Server and Sun ONE Web Server)",^(?:Sun-Java-System-Web-Server|Sun-ONE-Web-Server)/(?:\d\.[\d_]+)$
+"iPlanet WebProxy Server (subsequently Sun ONE WebProxy Server, presently Sun Java System Web Proxy Server)",^iPlanet-Web-Proxy-Server/(.*)$
+"Sun ONE WebProxy Server (formerly iPlanet WebProxy Server, presently Sun Java System Web Proxy Server)",^Sun-ONE-Web-Proxy-Server/(.*)$
+"Sun Java System Web Proxy Server (formerly iPlanet WebProxy Server, Sun ONE WebProxy Server)",^Sun-Java-System-Web-Proxy-Server/(\d\.[\d.]+)$
+Sun Integrated Lights Out Manager (ILOM) usually bundled with Sun Fire servers,^Sun-ILOM-Web-Server/(?:\d\.[\d._]+)$
+HP Integrated Lights Out Manager (iLO).  Version in the Server header (found on in iLO4) is the firmware version and is not currently used.,^HP-iLO-Server/(?:[\S]+)
+Mort Bay Jetty with info,^Jetty\/([1-6]\.[\w.]+)(?: \(([^)]*))?
+Mort Bay Jetty,^Jetty\(([1-6]\S+)\)$
+Eclipse Jetty,^Jetty\((\S+)\)$
+Squid Web Proxy with a version,(?i)^squid/(\d+\.[\w.\-\+]+)$
+Squid Web Proxy without a version,(?i)^squid$
+ACME thttpd with SSL support,^thttpd/(\d\.[\w.]+)-MX\s*
+ACME thttpd,^thttpd(?:/(\d\.[\w.]+)\s*.*)?$
+Lighttpd,(?i)^lighttpd(?:/(\d[\d.]+))?
+nginx without version info,^nginx$
+nginx with version info and/or mods,^nginx\/?([\d.]+)?
+TeamSpeak HTTP server,^TeamSpeak Server ([\d.]+)$
+WebSocket++ web server - https://github.com/zaphoyd/websocketpp,^WebSocket\+\+/([\d.-]+(?:-dev)?)$
+IBM Lotus Notes/Domino with no useful version info,^Lotus(?:-Domino)?(?:/|/0|/Release)?$
+IBM Lotus Notes/Domino with version info,^Lotus(?:-Domino)?/(?:Release-?)?([4-7][\d.]+)\s*(?:.*)$
+BEA WebLogic,^WebLogic (?:WebLogic )?Server (\d+\.\d+(?:\s+SP\d+)?)\s+
+IBM WebSphere,^WebSphere Application Server/(\d+\.\d+)$
+Caucho Resin,^Resin/(\S+)$
+Ipswitch IMail Server,^Ipswitch-IMail/(\d\.\d+)$
+Aprelium Technologies Abyss Web Server X1 (free personal edition) on Windows,^Abyss/(\d\.[\d.]+)-X1-Win32 AbyssLib/(?:\d\.[\d.]+)$
+Aprelium Technologies Abyss Web Server X1 (free personal edition) on Linux,^Abyss/(\d\.[\d.]+)-X1-Linux AbyssLib/(?:\d\.[\d.]+)$
+Aprelium Technologies Abyss Web Server X1 (free personal edition) on macOS,^Abyss/(\d\.[\d.]+)-X1-[mM]acOS (?:X )?AbyssLib/(?:\d\.[\d.]+)$
+Aprelium Technologies Abyss Web Server X2 (licensed professional edition) on Windows,^Abyss/(\d\.[\d.]+)-X2-Win32 AbyssLib/(?:\d\.[\d.]+)$
+Aprelium Technologies Abyss Web Server X2 (licensed professional edition) on Linux,^Abyss/(\d\.[\d.]+)-X2-Linux AbyssLib/(?:\d\.[\d.]+)$
+Aprelium Technologies Abyss Web Server X2 (licensed professional edition) on macOS,^Abyss/(\d\.[\d.]+)-X2-macOS AbyssLib/(?:\d\.[\d.]+)$
+Microsoft Commerce Server,"^Microsoft (Commerce Server\s*(?:2002|2007)?, (?:Enterprise|Standard|Evaluation|Developer) Edition)$"
+NetWare Enterprise Web Server (runs on NetWare 5.1),^NetWare-Enterprise-Web-Server/(\d+\.\d+)$
+NetWare HTTP stack (runs on 6.0 and 6.5),^NetWare HTTP Stack$
+NetWare HTTP Server (runs on NetWare 4.11),^Novell-HTTP-Server/3.1R1$
+NetWare HTTP Server (runs on NetWare 4.1),^Novell-HTTP-Server/2.51R1$
+Netscape FastTrack Server,^Netscape-FastTrack/(\d+\.[\w\s.]+)$
+Netscape Commerce Server,^Netscape-Commerce/(\d+\.[\w\s.]+)$
+SAP NetWeaver Application Server Java - short version,^SAP J2EE Engine/(\d+\.\d+)$
+SAP NetWeaver Application Server Java - without version,^SAP J2EE Engine$
+SAP NetWeaver Application Server without version,^SAP NetWeaver Application Server$
+SAP NetWeaver Application Server Java,^SAP NetWeaver Application Server ([\d.]+) / AS Java ([\d.]+)$
+SAP NetWeaver Application Server - Internet Communication Manager,^SAP NetWeaver Application Server ([\d.]+) / ICM ([\d.]+)$
+SAP NetWeaver Application Server - Internet Communication Manager without version,^SAP NetWeaver Application Server \(ICM\)$
+SAP NetWeaver Application Server - Advanced Business Application Programming,^SAP NetWeaver Application Server / ABAP ([\d.]+)$
+SAP Internet Graphics Server,^SAP Internet Graphics Server$
+SAP Message Server,"^SAP Message Server, release ([\d.]+) \(LNK\)$"
+SAP SQLAnywhere,^SQLAnywhere/([\d.]+)$
+OpenVPN Access Server,^OpenVPN-AS$
+SonicWALL SSL-VPN device,^SonicWALL SSL-?VPN Web Server$
+SonicWALL device,^SonicWALL$
+"NetCache appliance (product line formerly owned by Network Appliances, now owned by Blue Coat Systems).",^NetCache appliance \(NetApp/+(\d+\.\d+[\w.]+)\)$
+NetApp file servers,^NetApp/+(.*)$
+Blue Coat security appliance,^BlueCoat-Security-Appliance$
+F5 BIG-IP,^(?:BigIP|BIG-IP)$
+Mercury Security TargetOS,^TargetWeb/[\d\.]+ \(TargetOS\)$
+Foundry Networks device (though not sure which),^Foundry Networks(?:/(\d+\.\d+))?$
+HP Printer running the Chai embedded web server,^HP-Chai(?:Server|SOE)/(\d+\.\d+)$
+HP Printer,^HP HTTP Server; (?:Hewlett-Packard )?HP ((\S+) \S+)[^;]+; Serial Number: ([^;]+);
+"Old HP printers identify themselves as ""HTTP/1.0""",^HTTP/1\.0$
+"Embedded HTTP server used by many vendors and device
+      types, including APC, 3Com, Andover Controls, Cisco VoIP, D-Link,
+      Extreme Networks, Foundry Networks, Konica Minolta, Kronos
+      Timekeeper, McDATA, Netopia, Nortel Networks, Power Measurement Ltd,
+      and Xerox.",^(?:Allegro-Software-)?RomPager(?:-Digi)?/\s*(\S+)
+Yamaha RT series routers,^YAMAHA-RT$
+Canon Multifunction Printer/Copiers,^(?:Canon Http|CANON HTTP) Server (?:Ver)?(?:\d+\.\d+)$
+Linksys Wireless Access Point,Linksys
+Cisco IOS,^cisco-IOS$
+Cisco IOS with version information,^cisco-IOS/([^\s]+) HTTP-server/
+Cisco ASA,^Cisco AWARE (.*)$
+Cisco Expressway-E (Edge),^CE_E$
+Cisco Expressway-C (Core),^CE_C$
+Cradlepoint HTTP service,^CradlepointHTTPService/([\d\.]+)$
+ScriptLogic DesktopAuthority,^DesktopAuthority/(.*)$
+McAfee ePolicy Orchestrator,^Agent-ListenServer-HttpSvr/
+LANDesk Management Agent,^LANDesk Management Agent/
+Xerox Embedded Web Server (EWS),^EWS-NIC\d/(\S+)$
+Adaptec - Adaptec Storage Manager (runs on Windows Only),^Adaptec ASM (\S+)$
+Macromedia (formerly Allaire) JRun,^JRun Web Server$
+Symantec Raptor Firewall,"^(?:Raptor )?Simple, Secure Web Server ([\d.]+)$"
+Systech Internet Payment Gateway,^IPG(\d+)$
+Citrix NetScaler,^NS_(\d\.\d)$
+Citrix STUN server,^Citrix-([\d.]+) \'[^']*\'$
+"Rumpus FTP Server, Web File Manager interface",^Rumpus$
+Mac OS X Server administrative daemon,^servermgrd$
+Dell Remote Access Controller,^(RMC Webserver|RAC_ONE_HTTP) (\d\.\d)$
+Xerox Document Centre,^Xerox_MicroServer/Xerox11$
+IBM Tivoli Storage Manager,^TSM_HTTP/\d\.\d$
+D-Link embedded web server for web cams,^D-Link MiniAVServer$
+Lyris ListManager,^ListManagerWeb/(\S+)
+"TUX web server, an in-kernel Linux HTTP Accelerator",^kHTTPd (\S+)
+RealVNC built-in webserver - Enterprise edition,^VNC Server (Enterprise|Personal) Edition/(?:E|P)([\d.]+) \(r([\d.]+)\)$
+"RealVNC built-in webserver - Enterprise edition, short variant",^RealVNC/E([\d.]+)$
+RealVNC built-in webserver,^RealVNC/([\d.]+)$
+TigerVNC built-in webserver,^TigerVNC/([\d.]+)$
+AxWay SecureTransport,^SecureTransport (\d+[\d\.]+) \(build: (\d+)\)$
+EmWeb variants,(Agranat|Conexant|(?:Globespan)?Virata)-EmWeb/(R[\d_]+)$
+Rapid7 NSC,^NSC/\S+ \(JVM\)$
+Rapid7 Nexpose Security Console,^Security Console$
+Polycom Soundpoint IP Telephone,^Polycom SoundPoint IP Telephone HTTPd$
+Sentinel Protection Server - Embedded httpd in SafeNet's memory key dongles,^SentinelProtectionServer/((?:\d+\.)*\d+)$
+Sentinel Key Server - Embedded httpd in SafeNet's memory key dongles,^SentinelKeysServer/((?:\d+\.)*\d+)$
+Web server component of CherryPy web application framework.,^CherryPy/((?:\d+\.)*\d+)$
+Tornado Python web framework and asynchronous networking library.,(?i)^TornadoServer/((?:\d+\.)*\d+)$
+SimpleHTTPRequestHandler Python class is a simple HTTP request handler.,(?i)^SimpleHTTP/((?:\d+\.)*\d+)\s*Python/((?:\d+\.)*\d+)$
+BaseHTTPRequestHandler Python class must be subclassed to handle each request method.,(?i)^BaseHTTP/((?:\d+\.)*\d+)\s*Python/((?:\d+\.)*\d+)$
+AIOHTTP Project AIOHTTP,^Python/(\d\.[\d.]+) aiohttp/(\d[\w.]+)$
+Encode uvicorn,^uvicorn$
+WSGIServer (wsgiref.simple_server) – a simple WSGI HTTP server for Python,^WSGIServer/(\d+(?:\.\d+)*)\s*C?Python/(\d+(?:\.\d+)*)$
+Medusa - extensible Internet server framework for Python,^Medusa/(\d+(?:\.\d+)*)$
+Grandstream IP Phone,^Grandstream (GXP[^\s]+) ([\d\.]+)$
+Apache variant for web access to HP printers.,^HP Web Jetadmin/((?:\d+\.)*\d+)\s*(.*)$
+"HP printers, perhaps Apache, but we can't say for sure",^HP Web Jetadmin ([\d\.]+)(?: \([^\)]+\))?$
+Kyocera Printers,^KM-MFP-http/V([\d\.]+)$
+Citrix Web PN (Program Neighborhood) Server is an HTTP server used by Citrix products,^Citrix Web PN Server$
+ConnectWise Control formerly ScreenConnect,^ScreenConnect/([\d.]+)-(\d+)(?: Microsoft-HTTPAPI/2.0)?$
+"Expeditor is a framework used by IBM in many products in the Lotus brand, such as Sametime and Notes.",^Lotus Expeditor Web Container/((?:\d+\.)*\d+)$
+GoAhead-Webs - no version,^GoAhead-(?:Webs|http)$
+GoAhead-Webs - version,(?i)^GoAhead(?:-Webs|-http)?\/([\d.]+)(?: PeerSec-MatrixSSL\/[\d.]+-OPEN)?$
+Mbedthis Appweb,^Mbedthis-App[Ww]eb/([\d.]+)$
+Embedthis AppWeb,^Embedthis-(?:Appweb|http)\/?([\d.]+)?$
+"Web server for Avaya Aura Communication Manager Branch, a SIP-based communications platform.",^Avaya CMBE/((?:\d+\.)*\d+)$
+"Embedded web server by Rapid Logic, which was acquired by Wind River.",^Rapid Logic/((?:\d+\.)*\d+)$
+Wind River HTTP server,^WindRiver-WebServer/((?:\d+\.)*\d+)$
+Sophos - Embedded web server for a rack-mounted email appliance that blocks spam and malware.,^Sophos Email Appliance$
+Server for the CUPS web interface.,^CUPS\/((?:\d\.)+\d+)(?:\s*IPP\/\d+\.\d+)?$
+Twisted Matrix Labs - TwistedWeb,^TwistedWeb/([\d.rc]+)$
+Twisted Matrix Labs - TwistedWeb - verbose variant,^Twisted/([\d.]+) TwistedWeb/([\d.]+)$
+ACME mini_httpd with version and date,^mini_httpd/((?:\d+\.)*\d+) \S*$
+Marc-André Cournoyer's thin webserver,^thin ((?:\d+\.)*\d+) codename .+$
+Web server interface for controlling data centers.,^Avocent DSView \d+/((?:\d+\.)*\d+)$
+Ruby-based web server and HTTP library.,^Mongrel ((?:\d+\.)*\d+)$
+Embedded web server used by Microplex.,^Microplex emHTTPD/((?:\d+\.)*\d+)$
+"An embedded web server used for UPS management; primarily by Eaton, but also by APC.",^UPS_Server/((?:\d+\.)*\d+)$
+"An embedded web server, used notably by Oki and Kyocera in printers.",^JC-HTTPD/((?:\d+\.)*\d+)$
+An embedded web server.,^JC-SHTTPD/((?:\d+\.)*\d+)$
+Web server providing web services for Oracle's XML DB - with version string,^Oracle XML DB/Oracle\S+ (?:Enterprise Edition )?Release ((?:\d+\.)*\d+) - Production$
+Web server providing web services for Oracle's XML DB,^Oracle XML DB/Oracle Database$
+"Server for HTTP interface to sfcb, a lightweight CIM server",^sfcHttpd$
+HTTP and HTTPS server found on Palo Alto Networks devices,^PanWeb Server/ -
+IBM Network Printer Manager.,^Ews/((?:\d+\.)*\d+)$
+This banner is used to see if devices have Treck TCP/IP,^\$ProjectRevision:[\s\w:]* ([\d\.]+) \$$
+WEBrick default setup,^WEBrick/([\d\.]+)
+Aspen web server,^Aspen/(\S+)
+Boa web server,^Boa/([\d\.]+\S*)
+Hydra - high performance multi threaded HTTP web server,^Hydra/([\d.]+)(?: GnuTLS/([\d.]+))?$
+Web server found on DVR and webcam servers sourced from HiSilicon,^Cross Web Server$
+Web server found on DVR and webcam servers sourced from Hikvision,^(?:Hikvision|DNVRS|DVRDVS)-Webs$
+Web server found on ARRIS cable modems,^NET-DK[/ ](\d+\.\d+)$
+Web server found on some Arris/2wire devices,^2wire Gateway$
+A banner consisting of an IPv4 address and port -- assert nothing.,"^(?:(?:\d{1,3}\.){3}\d{1,3}):\d{1,5}$"
+Obfuscated web server -- assert nothing.,^Web-Server/(?:\d+\.+\d+)$
+httpd - generic -- assert nothing.,^httpd$
+Akamai Global Host,^(?:Akamai)?GHost$
+Google Web Services,^gws$
+Google Front End for apps running on Google services.,^GFE/((?:\d+\.)*\d+)$
+Amazon CloudFront web load balancer endpoint,^CloudFront$
+Amazon Cloud Drive / Drive,^Amazon-Cloud-Drive$
+Amazon S3 (Simple Cloud Storage Service),^AmazonS3$
+Amazon SimpleDB / Simple Database Service,^Amazon SimpleDB$
+Amazon Snowball,^AmazonSnowball$
+Amazon Elastic Load Balancing,^awselb/([\d.rc]+)$
+CloudFlare web load balancer endpoint,^cloudflare(?:-nginx)?$
+Microsoft Azure Application Gateway,^Microsoft-Azure-Application-Gateway\/(v\d+)$
+gSOAP,^gSOAP/([\d\.]+)$
+Alibaba Cloud Object Storage Service (OSS),^AliyunOSS$
+QTSS on OS X 10.3,^QTSS\/([\d\.]+) \(Build\/[\d\.]+; Platform\/MacOSX; Release\/Panther
+QTSS OS X,^QTSS\/([\d\.]+) \(Build\/[\d\.]+; Platform\/MacOSX; Release\/Mac OS X
+Symantec Endpoint Protection Manager,^SEPM$
+Symantec Endpoint Protection Manager - long variant,^Symantec Endpoint Protection Manager$
+Intel(R) Active Management Technology (AMT) with a version,^Intel\(R\) Active Management Technology\s(\d+\.\d+\.\d+\.\d+|\d+\.\d+\.\d+|\d+\.\d+)
+Intel(R) Active Management Technology (AMT) without a version,^(?:AMT|Intel\(R\) Active Management Technology)$
+Intel(R) Standard Manageability,^Intel\(R\) Standard Manageability\s(\d+\.\d+\.\d+\.\d+|\d+\.\d+\.\d+|\d+\.\d+)
+Sunny WebBox,^Sunny WebBox$
+EnergyICT RTU,^EnergyICT RTU \d+-\w+-\d+$
+AV-TECH AVC787 Video Web Server,^AV-TECH AV787 Video Web Server$
+"Splunk HTTP server used in the web interface, forwarders, indexers and more",^Splunkd$
+Tivo DVR,^tivo-httpd-\S+$
+OpenTV,^OpenTV/([\d\.]+)$
+Kong Gateway,^kong/([\d.]+)$
+Kong Gateway - Enterprise Edition,^kong/([\d.-]+)-enterprise-edition$
+Tridium Niagara AX Framework,^Niagara Web Server\/([\d.]+)$
+Fidelix Industrial Control Web Server,^Microsoft WinCE Fidelix v([\d.]+)$
+Chainpoint Node,^chainpoint-node$
+AVM FRITZ! devices of various types,"(?i)^(.{0,256}) UPnP/[\d\.]+\s+AVM FRITZ!(.*) ([\d\.]+)$"
+Ubiquiti airMAX airCube accessory,^airCube$
+Linux MiniUPnPd UPnP Server,(?i)^Linux/(\S+) UPnP/[\d\.]+ miniupnpd/([\d\.]+)$
+Tomato UPnP Server,^Tomato UPnP/\S+ MiniUPnPd/(\S+)$
+TomatoUSB UPnP Server,"^UPnP/Tomato ([\d\.]+)?[\w\s\.-]{1,30} UPnP/[\d\.]+ MiniUPnPd/([\d\.]+)$"
+Asus WAP UPnP Server,(?i)^(RT-\w+) UPnP/\S+ MiniUPnPd/([\d.]+)$
+AsusWRT Firmware,(?i)^(AsusWRT)\/(\S+) UPnP/\S+ MiniUPnPd/([\d.]+)$
+DrayTek Vigor router UPnP Server,(?i)^DrayTek/Vigor(\S+) UPnP/\S+ miniupnpd/([\d.]+)$
+Huawei Echolife / Home Gateway (and possibly other) devices with UPnP,(?i)Linux UPnP/\d\.\d Huawei-ATP-IGD$
+OpenWRT Kamikaze WAP UPnP Server,(?i)^OpenWRT/kamikaze UPnP/\S+ MiniUPnPd/([\d.]+)$
+Netgear DG834G or WNDR3300 WAP UPnP Server,(?i)^Netgear/\S+ UPnP/\S+ miniupnpd/([\d.]+)$
+DLNADOC UPnP Server,^[^/]+/(\S+) DLNADOC/\S+ UPnP/\S+ MiniDLNA/(\S+)$
+miniupnpd on a Debian variant,(?i)^Debian\/(\S+) UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on a Fedora variant,(?i)^Fedora(?:Core)?\/(\S+) UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu variant,(?i)^Ubuntu\/([\d\.]+) UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu bionic/18.04,(?i)^Ubuntu\/bionic UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu yakkety/16.10,(?i)^Ubuntu\/yakkety UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu xenial/16.04,(?i)^Ubuntu\/xenial UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu utopic/14.10,(?i)^Ubuntu\/utopic UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu trusty/14.04,(?i)^Ubuntu\/trusty UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu saucy/13.10,(?i)^Ubuntu\/saucy UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu raring/13.04,(?i)^Ubuntu\/raring UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu quantal/12.10,(?i)^Ubuntu\/quantal UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu precise/12.04,(?i)^Ubuntu\/precise UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu oneiric/11.10,(?i)^Ubuntu\/oneiric UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu natty/11.04,(?i)^Ubuntu\/natty UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu maverick/10.10,(?i)^Ubuntu\/maverick UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu lucid/10.04,(?i)^Ubuntu\/lucid UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu karmic/9.10,(?i)^Ubuntu\/karmic UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu jaunty/9.04,(?i)^Ubuntu\/jaunty UPnP/\S+ MiniUPnPd/(\S+)$
+miniupnpd on an Ubuntu hardy/8.04,(?i)^Ubuntu\/hardy UPnP/\S+ MiniUPnPd/(\S+)$
+Linux MIPS UPnP Server,(?i)^Linux Mips (\S+) UPnP/\S+ MiniUPnPd/(\S+)$
+Smoothwall Express UPnP Server,(?i)^SmoothWall Express/(\S+) UPnP/\S+ miniupnpd/(\S+)$
+TVersity Media Server UPnP Server with Service Pack,"^(\S{1,16}) \d+/Service Pack \d+, UPnP/[\d\.]+, TVersity Media Server$"
+TVersity Media Server UPnP Server,"^(\S{1,16}) 2/, UPnP/\S+, TVersity Media Server$"
+Belkin/Linksys BRCM400 Wireless Router UPnP Server,^LINUX/([\d\.]+) UPnP/[\d\.]+ BRCM400/([\d\.]+)$
+PlayStation3 Media Server UPnP Server - linux,"^Linux-(\S+), UPnP/[\d\.]+, PMS/([\d\.]+)$"
+PlayStation3 Media Server UPnP Server - Windows XP,"^Windows_XP-(\S+), UPnP/[\d\.]+, PMS/([\d\.]+)$"
+PlayStation3 Media Server UPnP Server - Windows 7 x86,"^Windows_7-x86-(\S+), UPnP/[\d\.]+, PMS/([\d\.]+)$"
+PlayStation3 Media Server UPnP Server - Windows 7 x86_64,"^Windows_7-x86_64-(\S+), UPnP/[\d\.]+, PMS/([\d\.]+)$"
+Windows 8 or Windows Server 2012 with unknown UPnP components,^Microsoft-Windows/6.2 UPnP/(?:\S+) UPnP-Device-Host/(?:\S+)$
+PlayStation3 Media Server UPnP Server - macOS x86_64,"^Mac_OS_X-x86_64-(\S+), UPnP/[\d\.]+, PMS/([\d\.]+)$"
+Free UPnP Entertainment Service UPnP Server - Linux on ReadyNAS,"^Linux/(\S+), UPnP/\S+, Free UPnP Entertainment Service/ReadyNAS$"
+Free UPnP Entertainment Service UPnP Server - Linux,"^Linux/(\S+), UPnP/\S+, Free UPnP Entertainment Service/$"
+Free UPnP Entertainment Service UPnP Server - FreeBSD,"^FreeBSD/(\S+), UPnP/\S+, Free UPnP Entertainment Service/$"
+D-Link WAP Dynamic DNS UPnP Server,^ipOS/([\d\.]+) UPnP/[\d\.]+ ipUPnP/([\d\.]+)$
+D-Link DGL-4300 Gaming Router UPnP Server,^ipOS/([\d\.]+) UPnP/[\d\.]+ ipGENADevice/([\d\.]+)$
+D-Link DIR-8XX Router,"Linux, STUNNEL/1.0, (DIR-8\d+\w*) Ver (\S+)$"
+D-Link DIR-XXX Router - WEBACCESS variant,"Linux, WEBACCESS/1.0, (DIR-\d+\w*) Ver (\S+)$"
+D-Link DIR-XXX Router - HTTP variant,"Linux, HTTP/1.1, (DIR-\d+\w*) Ver (\S+)$"
+D-Link DSL-XXX Router - WEBACCESS variant,"Linux, WEBACCESS/1.0, (DSL-\d+\w*) Ver (\S+)$"
+D-Link generic,^TBS/R2 UPnP/[\d\.]+ MiniUPnPd/([\d\.]+)$
+D-Link alphapd - likely DCS series cameras,^alphapd/(\d\.[\d.]+)$
+TP-Link WAP UPnP Server,^ipos/([\d\.]+) UPnP/[\d\.]+ (TL-\w+)/(\S+)$
+TP-Link Router httpd - seen on Wireless N and portable 3G routers,^Router Webserver$
+TP-Link httpd,^TP-LINK HTTPD/1.0$
+Siqura Video Encoder,"^Linux/(\S+\_eureka_1), UPnP/[\d\.]+, Portable SDK for UPnP devices/(\S+)$"
+Steinsvik Orbit IP Camera (Truen TCAM Rebrand),"^Linux/(\S+\-Mozart-8G), UPnP/[\d\.]+, Portable SDK for UPnP devices/(\S+)$"
+AMI MegaRAC LOM UPnP,"^Linux/(\S+\-ami), UPnP/[\d\.]+, Portable SDK for UPnP devices/(\S+)$"
+Axis Network Camera,"^Linux/(\S+\-axis[^,]+), UPnP/[\d\.]+, Portable SDK for UPnP devices/(\S+)$"
+Portable SDK for UPnP Server - Linux,"^Linux/(\S+), UPnP/[\d\.]+, Portable SDK for UPnP devices/(\S+)$"
+DLNADOC Portable SDK for UPnP Server - Linux DNLADOC variant,^Linux/(\S+) UPnP/[\d\.]+ DLNADOC/[\d\.]+ Portable SDK for UPnP devices/(\S+)$
+Intel SDK for UPnP Server with verbose banner,"^Linux/(\S+), UPnP/[\d\.]+, Intel SDK for UPnP devices ?/(\S+)$"
+Intel SDK for UPnP Server,"^Linux, UPnP/[\d\.]+, Intel SDK for UPnP devices ?/(\S+)$"
+Portable SDK for UPnP Server - macOS,"^Darwin/(\S+), UPnP/\S+, Portable SDK for UPnP devices/(\S+)$"
+Loxone Miniserver Smart Home,^Loxone Miniserver (.*) UPnP/1.0$
+MikroTik RouterOS,^RouterOS/(\S+)UPnP/1.0 MikroTik UPnP/1.0$
+Roku with a version,^Roku UPnP/\S+ Roku/(\S+)$
+Roku with double versions,^Roku/(\S+) UPnP/\S+ Roku/\S+$
+Roku without a version,^Roku UPnP/\S+ MiniUPnPd/([\d\.]+)$
+Xbox Media Center UPnP Server,"^UPnP/\S+, DLNADOC/\S+, Platinum/(\S+)$"
+Synology DiskStation NAS with IP,Synology/DSM/(\d+\.\d+\.\d+\.\d+)$
+Synology DiskStation NAS with hostname,Synology/DSM/(\S+)$
+NetData Embedded HTTP Server,^NetData Embedded HTTP Server v([a-zA-Z0-9\-\.]+)$
+SolsticePod,^Solstice 2\.0+$
+Extron MediaLink Controller HTTP Server,^MLC ([^\/]+)/([\d\.]+)$
+BlueCat Appliance,^Jetty \(Bluecat Networks\)$
+Crestron Video Conferencing,^Crestron Webserver$
+OPNsense Firewall,^OPNsense$
+ELAN Smart Home Controller,^ELAN Controller$
+Sony STR AV Receiver,^STR_SettingServer$
+Yamaha AV Receiver,^AV_Receiver/([\d\.]+) \(([^\)]+)\)$
+ANNKE IP Camera,^MWS 0.01$
+Icecast Streaming Media server,^Icecast (\S+)$
+Tableau Tableau Server web interface,^Tableau$
+Wowza Streaming Engine,^WowzaStreamingEngine/(\d\.[\w.]+)$
+Couchbase Sync Gateway Community Edition,^Couchbase Sync Gateway/([\d.]+) CE$
+Couchbase Sync Gateway Enterprise Edition,^Couchbase Sync Gateway/([\d.]+) EE$
+Couchbase Sync Gateway,^Couchbase Sync Gateway/([\d.]+)$
+Couchbase Server without version,^Couchbase Server$
+Kestrel web server implementation in ASP.NET core,^Kestrel$
+Tencent Secure Tencent Gateway,^stgw/([\d.]+)_([\d.]+)$
+axTLS Project axTLS web server,^axhttpd/([\d.]+)$
+Communigate Communigate Pro,^CommuniGatePro/(\d\.[\w.]+)$
+TinyProxy Project tinyproxy,^tinyproxy/([\d.]+)$
+mitmproxy interactive HTTPS proxy - https://github.com/mitmproxy/mitmproxy,^mitmproxy ([\d.]+)$
+Comcast Xfinity Broadband Router Server,^Xfinity Broadband Router Server$
+"NEC Univerge Router - enterprise class with VPN, UTM, etc","^IX Series IX21\d\d \(magellan-sec\) Software, Version ([^, ]+), (?:MAINTENANCE )?RELEASE SOFTWARE$"
+CaddyServer Caddy - golang based httpd,^Caddy$
+FastHTTP - Fast HTTP package for Go,^fasthttp$
+Moxa devices - service used on multiple families of devices,^MoxaHttp/(\d\.\d)$
+Facebook Proxygen httpd software,^proxygen-bolt$
+GFI Kerio Connect,^Kerio Connect ([\d.]+)(?: patch (\d))?$
+GFI Kerio Control - embedded web server,^Kerio Control Embedded Web Server$
+Cesanta Mongoose embedded web server / networking library,^Mongoose/([\d.]+)$
+Bangteng Kangle web server,^kangle/([\d.]+)$
+PalletsProjects Werkzeug web server,^Werkzeug/([\d.]+) Python/([\d.]+)$
+Proxmox api daemon,^pve-api-daemon/[\d.]+
+Cherokee Web Server - Debian variant,^Cherokee/([\d.]+) \(Debian\)$
+Cherokee Web Server - Ubuntu variant,^Cherokee/([\d.]+) \(Ubuntu\)$
+Cherokee Web Server - Gentoo variant,^Cherokee/([\d.]+) \(Gentoo Linux\)$
+Cherokee Web Server,^Cherokee(?:/([\d.]+))?(?: \(UNIX\))?$
+SerenityOS Web Server - https://github.com/SerenityOS/serenity,^WebServer \(SerenityOS\)$
+ACME mini_httpd with randomized Server header,"^[a-f\d]{7,8}-[a-f\d]{3,4}-[a-f\d]{3,4}-[a-f\d]{3,4}-[a-f\d]{10,12}$"
+UPNP server,"^Unspecified, UPnP/[\d\.]+, Unspecified$"
+Netgear WNR2000v5 Router UPnP,^WNR2000v([0-9]) UPnP/[\d\.]+ miniupnpd/([\d\.]+)$
+PELCO CAMERA DEVICE,^ev-compat$
+Ubiquiti UNMS,UNMS (\d+\.\d+\.\d+)
+Fortinet - device unknown,^xxxxxxxx-xxxxx$
+VBrick Encoding Server,^VBrick (\S+) Server$
+Panasonic KX-NS1000 IP PBX,^kx-ns1000$
+Oce Printer,^Oce Express WebTools$
+Eltex TAU model VoIP gateway,^Eltex (TAU-\d+[A-Z]*(?:\.IP)?)$
+Eltex SMG model VoIP gateway,^(SMG-?\d+[A-Z]?)$
+WSO2 Carbon - service-oriented platform for WSO2 products,^WSO2 Carbon Server$
+Ballerina - programming language HTTP module,^ballerina(?:\/([\d.]+(?:-[a-zA-Z0-9.-]+)?))?$
+Restlet Framework - REST API framework for Java,^Restlet-Framework/(\d+(?:\.\d+)*)$
+Assorted ZTE CPE device web server,^((?:Mini|ZTE) web server) ([\d.]+) ZTE corp \d{4}\.$
+ManageEngine PAM360,^PAM360$
+ManageEngine Password Manager Pro,^PMP$
+Crow - C++ framework for web services,^Crow/((?:\d+(?:\.\d+)*)|\S+)$
+darkstat - network statistics gatherer,^darkstat/(\d+(?:\.\d+)*)$
+darkhttpd - web server,^darkhttpd/(\d+(?:\.\d+)*)(?:\.from\.git)?$
+Server Technology Advanced Web Server (AWS),^ServerTech-AWS/v(\d+(?:\.\d+)*[a-z](?:-[a-z][0-9])*)$
+"frp - fast reverse proxy, not found response",^frp/(\d+(?:\.\d+)*)$
+ntopng - web-based network traffic monitoring on FreeBSD,^ntopng (\d+(?:\.\d+)*) \[(?:FreeBSD |[\w-]+-freebsd)(\d+(?:\.\d+)*)(?:[a-z0-9-])* \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on CentOS,^ntopng (\d+(?:\.\d+)*) \[(?:[\w-]+-linux-gnu)? \[(\w+)\]\[CentOS (?:Linux )?release (\d+(?:\.\d+)*)(?: \((?:Core|Final)\)\s*)?\]\]$
+ntopng - web-based network traffic monitoring on Linux,^ntopng (\d+(?:\.\d+)*) \[[\w-]+-linux-gnu \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on Linux (older ntopng),^ntopng (\d+(?:\.\d+)*)\s+\[[\w-]+-linux-gnu \((\w+)\)\]$
+ntopng - web-based network traffic monitoring on Ubuntu,^ntopng (\d+(?:\.\d+)*) \[Debian [\w/]+ \[(\w+)\]\[Ubuntu (\d+(?:\.\d+)*) LTS\]\]$
+ntopng - web-based network traffic monitoring on Debian,^ntopng (\d+(?:\.\d+)*) \[Debian (\d+(?:\.\d+)*) \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on Debian 12.0 (bookworm),^ntopng (\d+(?:\.\d+)*) \[Debian bookworm/sid \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on Debian 11.0 (bullseye),^ntopng (\d+(?:\.\d+)*) \[Debian bullseye/sid \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on Debian 10.0 (buster),^ntopng (\d+(?:\.\d+)*) \[Debian buster/sid \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on Debian 9.0 (stretch),^ntopng (\d+(?:\.\d+)*) \[Debian stretch/sid \((\w+)\)\]$
+ntopng - web-based network traffic monitoring on Debian 7.0 (wheezy),^ntopng (\d+(?:\.\d+)*) \[Debian wheezy/sid \((\w+)\)\]$
+ntopng - web-based network traffic monitoring on OpenBSD,^ntopng (\d+(?:\.\d+)*) \[[\w-]+openbsd(\d+(?:\.\d+)*) \[(\w+)\]\[[^\]]*\]\]$
+ntopng - web-based network traffic monitoring on Windows,^ntopng (\d+(?:\.\d+)*) \[[^\]]* \[(\w+)\]\[Windows\]\]$
+ntopng - web-based network traffic monitoring on unknown OS,^ntopng (\d+(?:\.\d+)*) \((\w+)\)$
+Freebox Device,^FbxWSD/1[.]0$
+Apache APISIX,^APISIX\/([\d\.]+)
