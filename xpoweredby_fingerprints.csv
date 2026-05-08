@@ -1,0 +1,1489 @@
+name,pattern,response_content
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Fri, 08 May 2026 05:27:51 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PHP/7.2.34
+Location: https://gitplayertv.ru/
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:23:42 GMT
+Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/5.6.40
+X-Powered-By: PHP/5.6.40
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+X-Content-Type-Options: nosniff
+Content-Language: zh-hans
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:26:46 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.3.30
+Link: <http://runocity.se/wp-json/>; rel=""https://api.w.org/""
+X-Loopia-Node: 172.22.223.23
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Fri, 08 May 2026 05:26:28 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.2.34
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:27:50 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 18504
+Connection: keep-alive
+Content-Encoding: gzip
+Link: <https://impa.br/wp-json/>; rel=""https://api.w.org/""
+Link: <https://impa.br/wp-json/wp/v2/pages/11948427>; rel=""alternate""; title=""JSON""; type=""application/json""
+Link: <https://impa.br/>; rel=shortlink
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.2.26
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:18:43 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Pingback: https://www.inespre.gob.do/transparencia/xmlrpc.php
+Link: <https://www.inespre.gob.do/transparencia/wp-json/>; rel=""https://api.w.org/"", <https://www.inespre.gob.do/transparencia/wp-json/wp/v2/pages/2>; rel=""alternate""; title=""JSON""; type=""application/json"", <https://www.inespre.gob.do/transparencia/>; rel=shortlink
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Keep-Alive: timeout=5, max=100
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-WS-Origin: available
+X-WS-RateLimit-Limit: 1000
+X-WS-RateLimit-Remaining: 998
+Date: Fri, 08 May 2026 05:27:32 GMT
+Server: Apache
+X-Powered-By: PHP/7.0.33
+Link: <https://fondazioneestromusicale.org/wp-json/>; rel=""https://api.w.org/"", <https://wp.me/P8spuO-7>; rel=shortlink
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.2.8
+Date: Fri, 08 May 2026 05:28:00 GMT
+Content-Type: text/html
+Content-Length: 2856
+Connection: keep-alive
+X-Powered-By: PHP/5.2.9
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+X-Varnish: 1572301797 1572301064
+Age: 12
+Via: 1.1 varnish
+X-Varnish-Hits: 226
+X-Varnish-IP: 208.94.3.32
+X-Varnish-Port: 17001
+Vary: Accept-Encoding, User-Agent
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:27:12 GMT
+Server: Apache/2.0.59 (Win32) PHP/5.1.6
+X-Powered-By: PHP/5.1.6
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Set-Cookie: a4f74ac412fd221ce2ac9f8f8d49a198=8381b2f4a0376c00f4046a89f48c1298; path=/
+P3P: CP=""NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM""
+Last-Modified: Fri, 08 May 2026 05:27:14 GMT
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=10, max=9
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2026 05:25:28 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.30
+Location: https://www.scanvis-ai.com/
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Encoding: gzip
+Content-Length: 15085
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 08 May 2026 05:26:54 GMT
+Link: <https://aviationdata.aero/wp-json/>; rel=""https://api.w.org/""
+Link: <https://aviationdata.aero/wp-json/wp/v2/pages/1356>; rel=""alternate""; type=""application/json""
+Link: <https://aviationdata.aero/>; rel=shortlink
+Server: Apache/2.4.38 (Debian)
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.13
+X-Ua-Compatible: IE=edge
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:27:40 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=%2FONLpecvT0ViiZimffNgeFHhnd5dm1JKAuHYhGDdW6hbyT2GTk9Ug4VOemTpEPzs1K0XGC1oAxtLGiVY777noQXRmiOmSMpCXEfSMqSDVO%2FxaMAxED9VBMkZtT8%3D""}]}
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.33
+cf-cache-status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9f860e7eed894d7f-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:25:25 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=c520ffbdad5204fd046163c15f94209152c34471; expires=Fri, 08-May-2026 07:25:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Connection: keep-alive, Keep-Alive
+Cache-Control: max-age=600, private, must-revalidate
+Content-Length: 23181
+Keep-Alive: timeout=5, max=99
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:26:32 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=%2BfIRVqwxp0sygRcHHXTRyKZN40y6VPT8lioAPyOckCQkxl2%2BEFlbML5fzltzBtyZkbjK888S%2F7iWbmmUQPUkkF%2BkVhmrZdUCbghW5UFFf1C2PygkKioearHYqVCG""}]}
+X-Powered-By: PHP/8.1.34
+X-DNS-Prefetch-Control: on
+Link: <https://m2n.com.br/wp-json/>; rel=""https://api.w.org/""
+Link: <https://m2n.com.br/wp-json/wp/v2/pages/1699>; rel=""alternate""; title=""JSON""; type=""application/json""
+Link: <https://m2n.com.br/>; rel=shortlink
+X-LiteSpeed-Cache: hit
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=333
+Vary: Accept-Encoding
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Server: cloudflare
+platform: hostinger
+panel: hpanel
+X-Robots-Tag: index,follow
+X-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9f860cd0cbec0414-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:26:55 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+X-Powered-By: PHP/7.4.33
+Location: https://central.awvps.com
+Vary: User-Agent
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=vhSl80Bnfrei4J95J99fk1FKsRX5e1AtoS5Gh7WkYGJNbuGvoYZmdknbES1XMTtcfiYbLpSvZ8dCAydxOb3eJqDiA%2FAp7HdqLG5LIaKyJsnUdSYFZwC%2Fwr3Bx5g%3D""}]}
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=17,cfOrigin;dur=203
+CF-RAY: 9f860d65186e2f1d-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.20.1
+Date: Fri, 08 May 2026 05:19:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.2.27
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+Link: <https://xcode.mn/build/assets/app-D3TMG2dQ.css>; rel=""preload""; as=""style"", <https://xcode.mn/build/assets/Welcome-DODGIPHC.css>; rel=""preload""; as=""style"", <https://xcode.mn/build/assets/app-C0Bi5Fcw.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/Welcome-DzX7-b16.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/Footer.vue_vue_type_script_setup_true_lang-Cn-0EcOG.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/ContactForm.vue_vue_type_script_setup_true_lang-Dh1eGYR8.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/code-DbFfPN7V.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/monitor-BtL1yFSU.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/cpu-DW7racOc.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/shield-check-Cve0FkfG.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/lightbulb-hN_KwVG_.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/createLucideIcon-Dx_aNDIt.js>; rel=""modulepreload""; as=""script"", <https://xcode.mn/build/assets/x-DpaPBtkG.js>; rel=""modulepreload""; as=""script""
+Vary: X-Inertia,Accept-Encoding
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImpucStqV1Mzam5mdWs5OGtobkFLM1E9PSIsInZhbHVlIjoiTm9uYjcxa3FtNTQ5QzM0bVRya056eHpxeit0eDR1anFaQ0ZhYWZFS3ZST2JXUFJNZW5GOVpjYlo0OFMrVW5PUDUzMDFERFYwVGNVOVIxQ01SZTd4NGtWamtVV3dNVDdySkY1ekcvVFBKMnNQQWJkTDU4R0JvMmdmUFBWRUQzRVciLCJtYWMiOiIzNDEzODc1MTY4ODFjM2QzNzg2OWRkMjc5NDhlZjIwNWIzZjA4YWE1OTc4ZjY0YzNlZjhhOWRmZGRhYTgyZTNhIiwidGFnIjoiIn0%3D; expires=Fri, 08 May 2026 07:19:31 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: iot-smart-solution-llc-session=eyJpdiI6ImRRV3l2dXRMT1JVM1VRNVZ4Ti9Jcmc9PSIsInZhbHVlIjoiVHJ2VzhlS1k4UDlXcXRHa1k2WEl1OEdhUXpYWVFHVWdkZDVuOVAyaDAxanhrS212dGhacWNTTVQyUzlaWWdiTUlpVEpmY09yS0JoSmJ0SnlIa3VYUlhySnNiVTg5S3pLQjM3ZUU5M1c1cEc0KzkvZDE4cEUzRWR5SWkwZFFPYysiLCJtYWMiOiI3NjljOWQ0MmI5YzVlOWJhN2Q5ZTE5MTY0OWIzNmZiMDUxZGE1OGQ2YzIwMjMzNDlhMDBmYzk5N2ZiNmFmOGQ3IiwidGFnIjoiIn0%3D; expires=Fri, 08 May 2026 07:19:31 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:19:37 GMT
+Server: Apache/2.4.62 (AlmaLinux) OpenSSL/3.2.2 PHP/7.4.33
+X-Powered-By: PHP/7.4.33
+location: p/ar
+Content-Length: 0
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:34 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 7194
+Connection: keep-alive
+Server: Apache/2.4.66 ()
+X-Powered-By: PHP/8.1.34
+Set-Cookie: apstate=7CNKMNeyup; expires=Fri, 08-May-2026 06:24:34 GMT; Max-Age=3600; path=/
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Referrer-Policy: strict-origin-when-cross-origin
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:08:08 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.45
+Set-Cookie: bn=f69909abc17c804c4918a0dd3c046df2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: kuki=1; expires=Mon, 05-May-2036 05:08:08 GMT
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:10:03 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubdovirtualhosts; preload
+X-XSS-Protection: 1;mode=block
+X-Powered-By: PHP/8.2.12
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-XSS-Protection: 0
+Location: login
+Content-Length: 21
+Keep-Alive: timeout=5, max=87
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:22:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+X-Powered-By: PHP/8.3.3
+Set-Cookie: PHPSESSID=8ce78c04e160b0eeb0618ea399e6ab3a; expires=Sat, 09 May 2026 05:16:18 GMT; Max-Age=86000; path=/; domain=glossperfumerias.com.ar; HttpOnly; SameSite=Lax
+Location: https://www.glossperfumerias.com.ar/
+Pragma: no-cache
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Expires: Thu, 08 May 2025 05:22:58 GMT
+Content-Security-Policy-Report-Only: font-src fonts.gstatic.com use.typekit.net *.typekit.net *.gstatic.com *.googleapis.com glossperfumerias.com.ar www.glossperfumerias.com.ar gloss.66ecommerce.com local.gloss.com maglionesrl.com.ar dsuiza.com.ar ahorrofarma.com.ar www.ahorrofarma.com.ar afarma.66ecommerce.com local.afarma.com *.fontawesome.com https://fonts.bunny.net data: 'self' 'unsafe-inline'; form-action geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com pilot-payflowlink.paypal.com www.paypal.com www.sandbox.paypal.com *.paypal.com *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com 'self' www.facebook.com connect.facebook.net graph.facebook.com business.facebook.com 'self' 'unsafe-inline'; frame-ancestors *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com 'self'; frame-src fast.amc.demdex.net *.adobe.com bid.g.doubleclick.net *.youtube.com *.youtube-nocookie.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com https://www.google.com/recaptcha/ *.braintreegateway.com *.paypal.com google.com *.google.com www.googletagmanager.com *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com www.facebook.com connect.facebook.net graph.facebook.com business.facebook.com www.commercepartnerhub.com https://mobbex.com https://www.googletagmanager.com https://www.google-analytics.com https://www.googleadservices.com 'self' 'unsafe-inline'; img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net *.adobe.com widgets.magentocommerce.com data: www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net www.google.com bid.g.doubleclick.net analytics.google.com www.googletagmanager.com *.ftcdn.net *.behance.net t.paypal.com www.paypal.com www.paypalobjects.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com i.ytimg.com *.youtube.com p.typekit.net *.paypal.com *.typekit.net *.gstatic.com validator.swagger.io *.googleapis.com glossperfumerias.com.ar www.glossperfumerias.com.ar gloss.66ecommerce.com local.gloss.com maglionesrl.com.ar dsuiza.com.ar www.afip.gob.ar www.google.com.ar ahorrofarma.com.ar www.ahorrofarma.com.ar afarma.66ecommerce.com local.afarma.com https://firebasestorage.googleapis.com *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com www.facebook.com connect.facebook.net graph.facebook.com business.facebook.com *.mobbex.com https://www.googletagmanager.com https://www.google-analytics.com https://www.googleadservices.com data: 'self' 'unsafe-inline'; script-src assets.adobedtm.com *.adobe.com www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net analytics.google.com www.googletagmanager.com *.newrelic.com *.nr-data.net geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com *.commerce-payment-services.com www.paypal.com www.sandbox.paypal.com www.paypalobjects.com t.paypal.com s.ytimg.com www.googleapis.com vimeo.com www.vimeo.com *.vimeocdn.com *.youtube.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ amcglobal.sc.omtrdc.net *.magento-ds.com use.typekit.net *.typekit.net google.com *.google.com *.cdn-apple.com *.braintreegateway.com *.googleapis.com *.gstatic.com glossperfumerias.com.ar www.glossperfumerias.com.ar gloss.66ecommerce.com local.gloss.com maglionesrl.com.ar dsuiza.com.ar hub.fromdoppler.com ahorrofarma.com.ar www.ahorrofarma.com.ar afarma.66ecommerce.com local.afarma.com *.avada.io *.shopify.com *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com www.facebook.com connect.facebook.net graph.facebook.com business.facebook.com *.mobbex.com https://www.googletagmanager.com https://www.google-analytics.com https://www.googleadservices.com 'self' 'unsafe-inline' 'unsafe-eval'; style-src *.adobe.com fonts.googleapis.com glossperfumerias.com.ar www.glossperfumerias.com.ar gloss.66ecommerce.com local.gloss.com maglionesrl.com.ar dsuiza.com.ar ahorrofarma.com.ar www.ahorrofarma.com.ar afarma.66ecommerce.com local.afarma.com *.fontawesome.com https://fonts.bunny.net *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com https://www.googletagmanager.com https://www.google-analytics.com https://www.googleadservices.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src *.adobe.com glossperfumerias.com.ar www.glossperfumerias.com.ar gloss.66ecommerce.com local.gloss.com maglionesrl.com.ar dsuiza.com.ar ahorrofarma.com.ar www.ahorrofarma.com.ar afarma.66ecommerce.com local.afarma.com 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src dpm.demdex.net amcglobal.sc.omtrdc.net www.google-analytics.com www.googleadservices.com analytics.google.com www.googletagmanager.com *.newrelic.com *.nr-data.net vimeo.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.sandbox.paypal.com www.paypalobjects.com www.paypal.com pilot-payflowlink.paypal.com *.adobe.io performance.typekit.net *.sentry.io *.paypal.com google.com *.google.com *.braintreegateway.com *.braintree-api.com *.googleapis.com hubapi.fromdoppler.com apis.fromdoppler.com stats.g.doubleclick.net www.google.com.ar https://get.geojs.io *.avada.io *.mercadopago.com *.mercadolivre.com *.mercadolibre.com *.mercadolibre.com.br https://mercadopago.com.br *.mercadopago.com.br *.mlstatic.com www.facebook.com connect.facebook.net graph.facebook.com business.facebook.com *.mobbex.com 'self' 'unsafe-inline'; child-src http: https: blob: 'self' 'unsafe-inline'; default-src 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline';
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=gmpC2x4PY6MdGNrGt2rgZIh6tbhbgOlxfg3R3%2BfuuCpuMlU7rKCH%2B%2FBw0OVGWGLn749d1jB6F%2BV5psRzjePAxnu%2Bdt7aGbF4hvHKbBFrJcM%2FJqOr1Yh6lUbT3yydJA3NwPC3YXZQc4Oi%2Fg%3D%3D""}]}
+Vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=192
+CF-RAY: 9f86079c1b20b26d-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html; charset=UTF-8
+Location: https://www.blumenau.sc.gov.br/
+Server: Microsoft-IIS/7.5
+X-Powered-By: PHP/5.3.24
+X-Powered-By: ASP.NET
+Date: Fri, 08 May 2026 05:19:37 GMT
+Content-Length: 165
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.6.40
+Set-Cookie: PHPSESSID=76in9pcmog723hiltr0tkg13m5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Cache-Control: no-cache
+Date: Fri, 08 May 2026 05:27:11 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: laravel_session=eyJpdiI6IkNSWVdPbTlna1dVenVYOXo2bElBNUY3bGtUeDNQZjhrYUNMWncrXC8xUnlvPSIsInZhbHVlIjoia3pHdnlzakRLUTVrZFlvRWF3c205d1R1ekVqSVpzT3ZzRzF6RFgzZmpjV2trSEVrSlZVaHd6SXdBd0ZRNkZxdXhvN0lDZTZ4Mkt6QXVHek56bmhVVFE9PSIsIm1hYyI6ImViYzg4MTE5YjMyMDFjNzA5NjhkNzlkMjQzNGI3M2JkYTcwOTM2ZDMxYTU1NGJjOTk3MmRhN2EwNDczYzc0NWQifQ%3D%3D; expires=Fri, 08-May-2026 07:27:11 GMT; Max-Age=7200; path=/; httponly
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Server: nginx/1.24.0 (Ubuntu)
+Date: Fri, 08 May 2026 05:24:04 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PHP/8.2.27
+Expires: Fri, 08 May 2026 06:24:04 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://www.ecomexpo.hu/
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=UTF-8
+Expires: Fri, 08 May 2026 06:26:34 GMT
+Location: https://www.audiohero.com/
+Server: Microsoft-IIS/10.0
+X-Powered-By: PHP/8.3.1
+Refresh: 0;url=https://www.audiohero.com/
+X-Redirect-By: WordPress
+X-Powered-By: ASP.NET
+Date: Fri, 08 May 2026 05:26:34 GMT
+Content-Length: 0
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-Powered-By: PHP/8.3.8
+Link: <https://blog.visionhb.cn/index.php?rest_route=/>; rel=""https://api.w.org/""
+X-Powered-By: ASP.NET
+Date: Fri, 08 May 2026 05:17:32 GMT
+Content-Length: 16706
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2026 05:24:18 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+X-Powered-By: PHP/8.2.12
+Set-Cookie: PHPSESSID=8oc38hh72sk7p26k2tq4lt09r0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: max-age=60000, private, must-revalidate
+Pragma: no-cache
+Location: https://jadara.edu.jo/
+Content-Length: 0
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:26:16 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.30
+Set-Cookie: PHPSESSID=5udrtlv6ucbo8apirp52gehg92; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=z2ubn7%2BAIqkcy3aYXsOvrMDBGkdDSe9iE2hwTijjk9%2FK6uXPqRm%2F%2BjedAmm8MOUb1fyDxJjm9VwXaQYILhcw9tP0l0QElG9StNEID%2FHNTAzNoqR3C8Y7cWTLKniIQQHVbDiD%2FQ%3D%3D""}]}
+cf-cache-status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9f860c6f8ab91da2-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:26:23 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/5.4.16
+X-Drupal-Cache: HIT
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <https://hpccss.edu.hk/en>; rel=""canonical"",<https://hpccss.edu.hk/en>; rel=""shortlink""
+Cache-Control: public, max-age=180
+Last-Modified: Fri, 08 May 2026 04:43:05 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=IwHzFK%2FoySWrE2X3n6xF8aU6nCFv9A2b0nXs6S6bt%2BxiM%2F1vcP0T1m5qzAaTV7lptCtnxnlxmOk2CcAuliDRho7%2BmK3M7C5ye%2F%2FxcARFA9Kxz71H9AM85WaNE0JLzyGz""}]}
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+cf-cache-status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9f860c9ad9a38e9a-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:26:19 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=400
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:20:04 GMT
+Server: Apache/2.4.62 (Unix) OpenSSL/1.0.2k-fips
+X-Powered-By: PHP/7.4.1
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=fq6684i4j3dfege8kf9rdpgra1; expires=Sat, 08-May-2027 05:20:04 GMT; Max-Age=31536000; path=/
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 11731
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 404 Not Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/8.0
+X-Powered-By: PHP/5.6.39
+Set-Cookie: think_template=yunshipin; expires=Mon, 18-May-2026 05:25:30 GMT; Max-Age=864000; path=/; domain=.job9151.com; httponly
+Date: Fri, 08 May 2026 05:25:29 GMT
+Connection: close
+Content-Length: 80692
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:25:38 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 24539
+Connection: keep-alive
+Keep-Alive: timeout=65
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.40
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: etik.ir=OK; expires=Sat, 09-May-2026 05:25:38 GMT; Max-Age=86400; path=/
+Set-Cookie: PHPSESSID=d7e8p7pmljgg146vopmk5h9ka7; path=/
+Upgrade: h2,h2c
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-FRAME-OPTIONS: “SAMEORIGIN”
+X-XSS-Protection: 1; mode=block
+Server: ArvanCloud
+Server-Timing: total;dur=618
+X-Cache: BYPASS
+X-Request-ID: e01edc0bd53a898ba0896caa59c36343
+X-SID: 5700
+Accept-Ranges: bytes
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:21:35 GMT
+Server: Apache
+X-Powered-By: PHP/7.2.34
+Content-Language: en
+Content-Script-Type: text/javascript
+Content-Style-Type: text/css
+X-UA-Compatible: IE=edge
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, no-transform
+Pragma: no-cache
+Expires: Mon, 20 Aug 1969 09:23:00 GMT
+Accept-Ranges: none
+X-Frame-Options: sameorigin
+Set-Cookie: MoodleSession=615d0e73b4dfce6800bf086c4ba276aa; path=/; secure
+Last-Modified: Fri, 08 May 2026 05:21:36 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 10296
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Moved Temporarily
+Date: Fri, 08 May 2026 05:26:21 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Location: https://riosdevida.com/mantenimiento/index.html
+Content-Length: 0
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:26:11 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.45
+Set-Cookie: ZDEDebuggerPresent=php,phtml,php3; path=/
+Content-Encoding: gzip
+Vary: Accept-Encoding
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2026 05:25:49 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+X-Powered-By: PHP/7.0.27
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-control: private, max-age=0
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+Set-Cookie: xf_session=6e605616ba0a6cbdfd8cef6c4a1eb473; path=/; secure; HttpOnly
+Last-Modified: Fri, 08 May 2026 05:25:49 GMT
+Location: https://fixbios.com/index.php
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=DRkzFZjCEzQ5NFFsHVCK49XjblkmyL6n7Wl2zHgtoBof5bkEHqcALt5qyx88SDuu3bA%2FChsPut02n5Xtn%2B0iQ4J0lOAK1asFPA3Pk6HJjFZUlVkm8xWtxDVIutzsjA%3D%3D""}]}
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=9,cfOrigin;dur=672
+CF-RAY: 9f860bc53edc312c-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.28.0
+Date: Fri, 08 May 2026 05:25:05 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Access-Control-Allow-Origin: *
+Link: <https://creativedevstudio.com/wp-json/>; rel=""https://api.w.org/""
+Link: <https://creativedevstudio.com/wp-json/wp/v2/pages/6>; rel=""alternate""; type=""application/json""
+Link: <https://creativedevstudio.com/>; rel=shortlink
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:26:17 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+X-Powered-By: PHP/7.2.31
+Cache-Control: no-cache, private
+X-UA-Compatible: IE=edge
+X-FRAME-OPTIONS: SAMEORIGIN
+Set-Cookie: dpc_guest=eyJpdiI6InVTZ2RcL0h3aEVnbjBnYVFDSVlERWR3PT0iLCJ2YWx1ZSI6IkFueU5uY2x2WFArdVp0UysxS080aG1EWUVVRnBXRVZTbDFxc0tkbUVYWGgxdXkzcXFtS3RaNVo2UVwvZmpBM1JcL2VxXC9DYjRoK2x5TFBGZXZYVlJ6QWFRPT0iLCJtYWMiOiJlYWM2NTY5Njc3NGYyYWI1MmQ4ZWMxYWM5OGM3ZjUzYjlhYzY4NzBjZjUwNjQxNjNkMzI0NDY4NjY5N2M5OTRlIn0%3D; expires=Tue, 23-Apr-2086 05:26:17 GMT; Max-Age=1892160000; path=/; secure; httponly
+cf-cache-status: DYNAMIC
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=DOIibt8WS8lu5FcAMSFMZO8PUBmAgL37fo5aYlBJiJQFGE%2FMnzwU%2BX0oKFvfyn7fy8q65qZLGLsflKfO9k3uHjxP6lLlsFGVmXCuxAb6B10u3AgR5OzhYrvYkbOTtXvW81RU""}]}
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Speculation-Rules: ""/cdn-cgi/speculation""
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=9,cfOrigin;dur=115
+Content-Encoding: gzip
+CF-RAY: 9f860c73d843996f-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:32 GMT
+Server: Apache/2.4.39 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9a mod_log_rotate/1.02
+X-Powered-By: PHP/7.3.4
+Set-Cookie: home_lang=cn; path=/
+Set-Cookie: admin_lang=cn; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 08 May 2026 05:14:17 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+X-Redirect-By: WordPress
+Location: https://www.t-rough.jp/
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2026 05:19:47 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+x-powered-by: PHP/8.2.27
+x-redirect-by: WordPress
+location: https://www.ssportplus.com/
+server: LiteSpeed
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Content-Type: text/html; charset=UTF-8
+Location: https://hueuni.edu.vn/portal/vi/
+Server: Microsoft-IIS/10.0
+X-Powered-By: PHP/7.4.32
+X-Powered-By: ASP.NET
+Date: Fri, 08 May 2026 05:34:22 GMT
+Content-Length: 0
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Server: nginx/0.8.55
+Date: Fri, 08 May 2026 05:25:13 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Powered-By: PHP/5.4.2
+Location: /login.php?returnto=%2F
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 20
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2026 05:25:45 GMT
+Server: Apache/2.4.67 (Unix) OpenSSL/3.0.19 mod_fcgid/2.3.9 mod_fastcgi/mod_fastcgi-SNAP-0910052141
+X-Powered-By: PHP/8.1.34
+Cache-Control: no-cache
+Set-Cookie: PrestaShop-8abb6f3e8866d735d42ff51c94e35b3c=def50200c5784eae251cea47511274240a4f80e48c43b566709f41f0d92c98ec7d5600bdf1420272e12c10415d47298039a29b3adae8bdd0e80cc5a3d40209d867a5abac9af41391343904844c047b27a0f3554f71be8ba8165b308b64507eac85f26d4c56d314c782034d50388b089c6c4203f4f84af978a92c9d008ea7a17419019e5d0a4f4543258ee1f77a8733856f78eac2bdfc3a6e44cb4d60b51fe54ccb53d43fb8ec08b4795cc16e41fd652b8236acf051dcce0b6e99c6bc0dce7f08bd48d230e38c88347d566223a626b68e5b5b5de88932f585e959d1c2f9ad3229afa20fcb4e1e25faaac0319814cd3f5229c4ca5bbd29fd5b9509769e9f37011a292efd105a965449ef88cbfa9f3c5b01d25d4e014f5e1696771f47b4b5dec6c4d0fa6150e48c9669e0772c13386d1be589d909e4a1d60914abf4f3e8688280580f24647a75efcfbb623487411a74b64838e658ed; expires=Thu, 28-May-2026 05:25:45 GMT; Max-Age=1727999; path=/; domain=fujimae.com; secure; HttpOnly; SameSite=Lax
+Location: https://fujimae.com/
+Content-Length: 0
+Keep-Alive: timeout=5, max=200
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 20384
+Connection: keep-alive
+Date: Fri, 08 May 2026 05:25:18 GMT
+Server: Apache/2.4.66 () OpenSSL/1.0.2k-fips PHP/8.2.30
+X-Powered-By: PHP/8.2.30
+Set-Cookie: PHPSESSID=hs2ooc1ptimd2895hf38qvsfo8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 1e98d5650733d029e654c292897e79fc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX53-P3
+X-Amz-Cf-Id: _Xl8NdCgbTbl6qtChfjv5p5kFKC4b57UPbIrmWz4ylrjFLTlaVB-LQ==
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:25:33 GMT
+Server: Apache/2.4.59 (Debian)
+X-Powered-By: PHP/8.2.21
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:59 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3752
+Connection: keep-alive
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.3.22
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Powered-By: PHP/7.3.22
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+frame-ancestors: none
+form-action: self
+Vary: User-Agent
+Access-Control-Allow-Origin: *
+cache-control: no-store, no-cache, max-age=0"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:25:48 GMT
+Server: Apache/2.4.4 (Win32) PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Content-Length: 4230
+Connection: close
+Content-Type: text/html"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:25:33 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.6.40
+X-Powered-By: PHP/5.6.40
+Set-Cookie: PHPSESSID=nkts6bedb3h887g6u9avkncv73; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: login.php
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:25:32 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+X-Powered-By: PHP/8.2.12
+Location: http://119.93.3.20/dashboard/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:25:33 GMT
+Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33
+X-Powered-By: PHP/7.2.33
+Location: http://119.92.231.242/dashboard/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 08 May 2026 05:23:38 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PHP/8.3.30
+X-Redirect-By: WordPress
+Vary: Accept-Encoding
+Location: https://esgpl.com/
+X-Powered-By: PleskLin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:23:55 GMT
+Content-Type: text/html;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.41
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/8.5
+X-Powered-By: PHP/5.5.11
+Set-Cookie: PHPSESSID=6jikpid84aaseo1o767eeh29i7; path=/
+Strict-Transport-Security: max-age=315360000
+Date: Fri, 08 May 2026 05:25:06 GMT
+Content-Length: 6672
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:25:35 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: OVHcloud
+X-Powered-By: PHP/5.5
+Set-Cookie: PHPSESSID=9fd0bb30fbdcb0136276960ddb5ba7a9; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.20.1
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Cache-Control: no-cache, private
+Date: Fri, 08 May 2026 05:25:35 GMT
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 59309
+Connection: keep-alive
+Date: Fri, 08 May 2026 05:23:51 GMT
+x-amzn-Remapped-Date: Fri, 08 May 2026 05:23:50 GMT
+x-amzn-RequestId: f7384da2-f197-4a6f-89d2-98d1f5a840e3
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkRvK2ZnWmo1ZjFHSjg4ODVGR0dRc2c9PSIsInZhbHVlIjoiOGhxRGNjd3VZbFc0dHBUMXZzNVd3SUc4RmNkN1hveUdmT2RZb1AwL0xCZVk1ZHEvelJ2aUQrZmlFbzBnRERuclFkRkNPQ01ud2F0ZklFeStGbURQZDZaR3NtRXV4VnFzTUlHa2FtSlhTd1o5T3pEb0d0WjJZcmp1QWl5ZWtmMHIiLCJtYWMiOiJlNmJmNDkxNDdjZWFiYzdjODIwMDkzOTk0NzI5MjJiNjFkNWQzMTRhMTc5NGNiYmVkZWIzNTAyOGI1MjllN2Y4IiwidGFnIjoiIn0%3D; expires=Fri, 08 May 2026 07:23:51 GMT; Max-Age=7200; path=/; secure; samesite=lax
+Set-Cookie: site_gr_multimarcas_1161_session=eyJpdiI6Im5JTHdaL1dqY2pocm90QmZkL2l2dEE9PSIsInZhbHVlIjoiSXBpTnZQZW05YnM1eTBxOXBJY3FzSS94amYwaVg5cXZJNWVBMFBwTE5TQndhcjFSbFJBSGJIalR2eGg5YjdYclBtalVoK0VtZWl6MExobGphNndHeDZwc1JmWDBqTmVqQkJsbVpVVXNGQWxlOWRrem9qeGp2NjJObCt4cTY3Ui8iLCJtYWMiOiI2OTA5NWQyODY3ODU0OTk5ZmIyNzIzYWNiZGE3OTU1MmYzOWM2ODViNjhiYWFhOTRiYmMxMGRiNjNhYmRhN2JiIiwidGFnIjoiIn0%3D; expires=Fri, 08 May 2026 07:23:51 GMT; Max-Age=7200; path=/; secure; httponly; samesite=lax
+Set-Cookie: KFyUZHEfyeNXi988iD74gJ257qwMcAwqp6lHLyUF=eyJpdiI6Ild0ckdreTBTY3BLOWdYU3o1ZUNNTGc9PSIsInZhbHVlIjoiOUJFVkQyWDRoS3p4R2pYRFJleWRneUt0WUJrTlFSa0pkdkF3aHNOeGVGb2JGbUFQTDMwQVZQV2Y5R0h0UTVRVXkwRTFPanNKbzhKdkdreHZmM01Ha2FJM1lkaEVLVXk0LzB4WjNkRlJzcFc3VVVVakF2a1dvV1k0cWl0NkZMOUpCM0t3VFIxdzd6UCs4NEdPTE9ONmZieDBaMkM3SHNOTWh3bUlORFBhdGhHRHFXb0JtczRDNjdJczZTd25pbWxLRjJuQXdac1RFZlUvYWR3UVhwd0pGd0Z4SkJubmdnZG92blV0L041OTFQakQzZWpUUmRIRjVzellEMHBoNmVZREc5ZlpvZVUvckk1M21JeVVMWWFwa25YallPYjhMMlBLTDltcjR3ZTMraHU5d3BvWExjYWZKKzd0OXllYXBxSHlvc2thZFdhZlRBNlMvdlZ6Q3JwaURKSTBnUVJvV1NqeTBVakhLaFpTVU8zQ3JMdGxBNDM2OG5nR2w3Y3BtSDFlIiwibWFjIjoiMjFhZjM1NDA5YWQ5Y2QxMGUyYzY0MDViMmM2ZmI2ZDA5NTYzMWMwNzgyMTgyN2Y5ODEyYmNjMDgxZGQyNGNjZCIsInRhZyI6IiJ9; expires=Fri, 08 May 2026 07:23:51 GMT; Max-Age=7200; path=/; secure; httponly; samesite=lax
+x-amz-apigw-id: dB74HE6BiYcENSw=
+Cache-Control: no-cache, private
+X-Powered-By: PHP/8.2.27
+X-Amzn-Trace-Id: Root=1-69fd7366-036067b33b8ac4ce790fce40;Parent=3d84e5dedbdaf135;Sampled=0;Lineage=1:080a2fd7:0
+X-Cache: Miss from cloudfront
+Via: 1.1 6cbbecc3198d4b8fe84dc82e5f121ae6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO53-P7
+X-Amz-Cf-Id: x2WSsuFqx_jChXhubecj8acuKSD_zAGnmX5-tvH6-A-IM-WJDurkUQ==
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+X-Powered-By: PHP/7.4.33
+Link: <https://hentai2read.com/wp-json/>; rel=""https://api.w.org/""
+Link: <https://hentai2read.com/wp-json/wp/v2/pages/24>; rel=""alternate""; title=""JSON""; type=""application/json""
+Link: <https://hentai2read.com/>; rel=shortlink
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=1240
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=06jkUNtJmP9gN6i1J5bNhzauvTIf9OlXGOnRDjuYn%2BC5TjMIfxzp%2BC3za60HyguAOJ03cDRo5A2gzeGHvdSiomLFV3W%2FkJljOZ8P6%2B%2FWkzF1PNWb3tMhHIzpu4usrZ1SKA%3D%3D""}]}
+Content-Encoding: gzip
+CF-RAY: 9f860a84190b9277-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx-reuseport/1.21.1
+Date: Fri, 08 May 2026 05:25:06 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=30
+X-Powered-By: PHP/7.2.34
+Set-Cookie: PHPSESSID=c435c871df7168f229254856dfe02fd0; path=/; domain=.cs-site.ru; secure; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+X-Powered-By: PHP/8.0.30
+X-Powered-By: PleskLin
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, no-cache, max-age=0
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=Jo%2FT1%2BNrZ3QQENuxlvZVJze8JfUDsb43tu4laYyUKB6z%2BDHsAFVJTUACbid%2B4JWta0m8SrT080A%2BL1qcT5wztcQMydC69VpZY%2Bi6b6osWHMZSU%2FF87hOqSq42tp4ow%3D%3D""}]}
+Vary: Accept-Encoding
+Set-Cookie: xf_csrf=nvtt6y0BMLmxuQmd; path=/; secure
+Last-Modified: Fri, 08 May 2026 05:24:13 GMT
+Access-Control-Allow-Origin: *
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=254
+Content-Encoding: gzip
+CF-RAY: 9f86096e2cb4da3a-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:25:08 GMT
+Server: Apache/2.4.65 (Debian)
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: noindex, nofollow
+Referrer-Policy: no-referrer
+X-Powered-By: PHP/8.3.27
+Set-Cookie: oclichu745h8=86a143f36bf70eae6eb31ba184190807; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=HPd962TAr8yOY5IJuHfn0aTacx5uVrCDtZ%2FCDtwoQ2WjxyY3RkVkrX2yjTLPb2FX7DI%2FEWUxlwEdXwmFWa4ZB%2Br1vxl7M78nKpXlMr%2BmsvSK8g6j6nMloxCLL%2FvvDHF7; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oclichu745h8=86a143f36bf70eae6eb31ba184190807; path=/; secure; HttpOnly; SameSite=Lax
+Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-POgmmBB473cw/9Qub4j/48uqNQ3c++c082QguQ10N8I='; style-src 'self' 'unsafe-inline'; frame-src *; img-src * data: blob:; font-src 'self' data:; media-src *; connect-src *; object-src 'none'; base-uri 'self';
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: oclichu745h8=86a143f36bf70eae6eb31ba184190807; path=/; secure; HttpOnly; SameSite=Lax
+Location: https://nube.recreo.red/login
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:27 GMT
+Server: Apache/2.4.37 (Rocky Linux) OpenSSL/1.1.1k
+X-Powered-By: PHP/8.0.30
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=4j1iq65f5ah3epppb0vioqghnr; path=/
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Expires: 0
+Connection: keep-alive, Keep-Alive
+Keep-Alive: timeout=5, max=99
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:25:16 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+x-powered-by: PHP/8.2.30
+x-powered-by: PleskLin
+expires: Wed, 17 Aug 2005 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=F50VBQSMEsyi9NLrdKAxl%2BrOczlH6Lvp5GieweQ000dKPIKKe%2BBWi%2FwP2reQdup6yYWsX3%2FFB1UU3RZoRm3mzT5TxmGFg8KAQ%2FScGVooizAD0ZtBOdv7ti36dhTRJzA%3D""}]}
+vary: Accept-Encoding
+Set-Cookie: b88469f1496881ceadfaa7bdfed2df0a=1efl8shj5c6rqj4u17mgbogj3l; path=/; HttpOnly
+last-modified: Fri, 08 May 2026 05:25:16 GMT
+cf-cache-status: DYNAMIC
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Content-Encoding: gzip
+CF-RAY: 9f860af669fd78ab-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Fri, 08 May 2026 05:24:37 GMT
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+X-Powered-By: PHP/7.4.33
+Set-Cookie: f0df958ec235d2bbdf50359033abaec3=tab30nho0s2mnae67vjh24vr0n; path=/; HttpOnly; secure
+P3P: CP=""NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM""
+Date: Fri, 08 May 2026 05:24:37 GMT
+Content-Length: 40408
+Strict-Transport-Security: max-age=31536000;
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:23:18 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+x-powered-by: PHP/7.4.33
+x-powered-by: PleskLin
+x-litespeed-tag: b39_HTTP.200
+link: <https://smartbotsland.com/wp-json/>; rel=""https://api.w.org/"", <https://smartbotsland.com/wp-json/wp/v2/pages/863>; rel=""alternate""; title=""JSON""; type=""application/json"", <https://smartbotsland.com/>; rel=shortlink
+vary: Accept-Encoding
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=CahmQLgagB9C0Suc2FUxBeaCqBtxxmW4WNIy7wDG49Cah59zJ%2FarjCA74R0hoVKis2ZJDCZ7YHGcwKvXIeV7TWIvY7dJGVvLUvd%2BwfSuRdcdrKDo7jkHh3Q122xS5h8X0CbCCQ%3D%3D""}]}
+cf-cache-status: DYNAMIC
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=1231
+Content-Encoding: gzip
+CF-RAY: 9f8608116a191876-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Location: http://pttbsa.com/intro
+Server: Microsoft-IIS/10.0
+X-Powered-By: PHP/7.4.13
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjlNS3VVVDhKcnRvZ1lSK2dhbXhucGc9PSIsInZhbHVlIjoiTEpmV3U4SEZjR0t1WkRZYWlZSEZ4S0NVbSs0SXhBQkttWGphVWtFUzhWYkx1YTZxL0YvWDF3UWpvRHVZYWh3WE1IcjhJSk5yL2NpU1l0Q2ZmT2pxZU5UUE03V2RKcFpJU3IwK1k4dUZoYW5zZEtoaUJTdzVXOXhIdkxVMEM3dW8iLCJtYWMiOiJiMzI4YWFjZTNiZmM3MTk2ZjY5MTU2ZmNkMjAwMThlYjhlZjgzNDMyZWE5MDk1OTNiMjAyYzc3MzRlNmQxMzRjIiwidGFnIjoiIn0%3D; expires=Fri, 08-May-2026 07:24:08 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: laravel_session=eyJpdiI6IjFjY01uZXRpeUs3eGMzSGdPVXRlUUE9PSIsInZhbHVlIjoicXVDeGlPRE0wVDZVWTRHelNob0NUU2ZZNVF6dE1Xb0YxT2xRd0dyaERtMjhyVTAzWGtjTkppU1hySTFBbjhWRUVVUkZ5RjRVaGpJNTQ4UlJFa3N2clk3UDJhSXV4WFVUUE9DNTMrZHd0MXpjdzFiNEhvT010dDdRVzM5VWtXYXgiLCJtYWMiOiJlMjkzNDI0ZGM4ZGQwNTFjNDk5NjAzYWQzODY5YjQzZDBjNWQ2ZWEzODdjNTQzYjgxYjkzNmY5MTg3MDJlZGMxIiwidGFnIjoiIn0%3D; expires=Fri, 08-May-2026 07:24:08 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+X-Powered-By: ASP.NET
+Date: Fri, 08 May 2026 05:24:08 GMT
+Content-Length: 338
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 May 2026 05:24:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.6.39
+Set-Cookie: PHPSESSID=u6sahendtg13qeunucerv481u3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Server: nginx
+Date: Fri, 08 May 2026 05:20:59 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.2.30
+Vary: Accept-Language
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+Location: https://erptarget.com/ar
+X-Powered-By: PleskLin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 11441
+Connection: keep-alive
+Date: Fri, 08 May 2026 04:36:02 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Set-Cookie: PHPSESSID=k020hse1oivaep7tf43so58f10; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: max-age=3600, public
+Pragma: 
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 76202e8091549603d8976790ff63b064.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX53-P4
+X-Amz-Cf-Id: QJUSDaDl4o5r4y2VA7seMBVGD6wZYqX5EOE6lh4Us0BUcB1TIEAETg==
+Age: 2930
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Vary: Origin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.28.2
+Date: Fri, 08 May 2026 05:23:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.0.33
+Set-Cookie: ntthnueeduvn_root=da45457570f7030fe3f53c33c718dedc; expires=Fri, 08-May-2026 06:23:58 GMT; Max-Age=3600; path=/; domain=.ntthnue.edu.vn
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:24:32 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.2.30
+Access-Control-Allow-Origin: *
+Link: <https://farmaschool.com/>; rel=shortlink
+Set-Cookie: wp_llms_session_84f10ca7f39f2732eda3b3609ad5222e=804a673994dd5cc088a9ca04b0118a10%7C%7C1778239471%7C%7C1778235871%7C%7C215e9428a131e5688a6e9634ec0e0b81; expires=Fri, 08 May 2026 11:24:31 GMT; Max-Age=21600; path=/; domain=farmaschool.com; secure; HttpOnly
+Set-Cookie: swpm_session=8db259c363397e3b8ed21eb691b81766; path=/; domain=farmaschool.com; secure; HttpOnly
+Cache-Control: private, must-revalidate
+Expires: Fri, 05 Jun 2026 05:24:31 GMT
+X-Powered-By: PleskLin
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.2.24
+Cache-Control: no-cache, private
+Date: Fri, 08 May 2026 05:23:09 GMT
+Location: /home/
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:59 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-powered-by: PHP/8.2.30
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkdMR2dSRlVySW9ES2VoenQrOFhEcWc9PSIsInZhbHVlIjoiVW5zZ3hTNFBPU1lMQU11WHRUNXFjTG0rOCt6ZXhxQkt1YSsxYkhkUGR2YUNicDBpUTdwU3Qyb3k4b3F6YUVXRUdTREZpK2l0cUxqdkZ5Z1IzdVMrNU5nVForNjlnZldsT2dLc1Q2bmVFV0xsTHRTOTlZZmI0YzdZQUh1enlDcVQiLCJtYWMiOiJmMmQ0N2Y1N2M1ODcyY2JiM2U3MTc4OWU1MjA5ZGZiYTFiNzc0YzY5ODRkM2QzODBjZGZmOGJlZDgzYzdlODI0IiwidGFnIjoiIn0%3D; expires=Fri, 08 May 2026 07:24:59 GMT; Max-Age=7200; path=/; secure; samesite=lax
+Set-Cookie: panel_session_bf1894fe72240dace7539df4911ee35d=eyJpdiI6ImZoQW5Nc2dzQWpZZDBhMllKYlcrcGc9PSIsInZhbHVlIjoiRWNBZmJoRVQ1SEVaeGNvalQyamNneWwrOGtHL2pTV0M3d29Lc2FFcWhYRG9JU1VnYitnSnNRd3hJUE5kb0pMZ1I5NGdiU1AxcmUxUUVWa3lSTjRZNkQwbm0zLzhybHRoOTBCbmJxelV1QnBqUklJZEVOZnZSSXpXaGdEYTBydSsiLCJtYWMiOiJiYTFlZTU5NWIyYzdiZTlkMjgwOTc0NDE3NzBkODllNmQ3YzgxYmQ4Yzg4Y2VhNDhiMDVhZmNiNDBjMzQzOGY3IiwidGFnIjoiIn0%3D; expires=Fri, 08 May 2026 07:24:59 GMT; Max-Age=7200; path=/; httponly; samesite=lax; secure
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=2eCVEMAHsXrlnNoipPsu17v1JLZELCKO2564HG2M4FJEhHaceKZfrU%2FsRHzA%2B6N2Knflmnja5tCQJJ%2Btul9hHFN7jzR7KwmpA2vvFXWVEv4Kr11BVZ%2BQKQABfBul""}]}
+vary: Accept-Encoding
+Server: cloudflare
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Content-Encoding: gzip
+CF-RAY: 9f860a8bed71dbab-FRA
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Fri, 08 May 2026 05:24:56 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.30
+Set-Cookie: PHPSESSID=7199ab59207f45206d5f980e11e4e325; path=/
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Server: nginx
+Date: Fri, 08 May 2026 05:24:13 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PHP/8.3.30
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=psvpsidrc6ma2doenqvsbqstvp; expires=Mon, 11 May 2026 05:24:13 GMT; Max-Age=259200; path=/; domain=.dagschotel.be; secure; HttpOnly
+Set-Cookie: current_branch_location_id=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; domain=dagschotel.be
+Location: https://dagschotel.be/intro
+X-UA-Compatible: IE=Edge,chrome=1
+Vary: User-Agent
+X-Powered-By: PleskLin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:18:52 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.4.20
+X-Mod-Pagespeed: 1.14.36.1-0
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+X-Powered-By: PleskLin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 08 May 2026 05:24:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+P3P: CP=""ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM""
+X-Redirect-By: WordPress
+Location: https://www.cancerimagingarchive.net/
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Fri, 08 May 2026 05:24:57 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.1.34
+Access-Control-Allow-Origin: http://localhost
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Cache-Control, Pragma, Authorization, Accept, Accept-Encoding, Cockpit-Token
+Access-Control-Allow-Methods: PUT, POST, GET, OPTIONS, DELETE
+Access-Control-Expose-Headers: true"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:31 GMT
+Server: Apache/2.4.39 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9a mod_log_rotate/1.02
+X-Powered-By: PHP/7.3.4
+Set-Cookie: home_lang=cn; path=/
+Set-Cookie: admin_lang=cn; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: nginx
+Date: Thu, 07 May 2026 09:26:33 GMT
+Strict-Transport-Security: max-age=15768000
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/8.3.28
+Cache-Control: max-age=3600
+Expires: Thu, 07 May 2026 10:26:33 GMT
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding,Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 61801a371422cf4565197c524cfbe39e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX53-P5
+X-Amz-Cf-Id: WPgQMw3_VnhmZhgBXCcmcJ_QobIohLltFhOdPeaMXaVBBV3mNBZPrA==
+Age: 71814
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:24:48 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+X-Powered-By: PleskLin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:24:39 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+X-Powered-By: PHP/7.4.33
+Set-Cookie: memberID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: memberPassword=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: adminID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: adminPassword=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Location: desktop/home.php
+Access-Control-Allow-Origin: *
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=q%2BGTXCuMzHo%2FLTP4w6GQ69xjgvRNI7B5%2FYzBTnTwvHv7%2Fzz0vwUyRx0blVUmqeaWjT5wjh2FhlwTHo%2BHMvO4ikhxa7HgsMV7KNI9bPJ0uix3MjhymJktY4sW%2F3pTd4LBvr18U0RH""}]}
+cf-cache-status: DYNAMIC
+CF-RAY: 9f860a138c95b6a2-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:32 GMT
+Server: Apache/2.4.39 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9a mod_log_rotate/1.02
+X-Powered-By: PHP/7.3.4
+Set-Cookie: home_lang=cn; path=/
+Set-Cookie: admin_lang=cn; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=utf-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Server: nginx/1.26.1
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Cache-Control: no-cache
+Date: Fri, 08 May 2026 05:22:56 GMT
+Location: https://citysuiteshotels.com/zh-tw
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkNwdnFsRW5teE9UTUpFbVAxeDVhcHc9PSIsInZhbHVlIjoiRG90OXdQVHM2NW8zYTY0VXB0N0JTOXd4SEphOU1EeWIrdDM4YnlIVGFpTzhCZU9RRFk5YmhTQTlMMmlVZW4xNFduSGpIaDJId1wvano0dUY4RkFRdUdRPT0iLCJtYWMiOiI2ZmVkOGM4NTBjZWRmZGRiMGM0MWE1YTFhYWUwYmE5NzY4YjdhOTFjNDAxNmVjZWI2MDk0NDAxNGNhMmU0NWI4In0%3D; expires=Fri, 08-May-2026 07:22:56 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6InI4T1pDSXVBK0loWFwvb3N0NlAreWRRPT0iLCJ2YWx1ZSI6IktSXC9GVUFiTlFKRmhzMXcxUExxbHluSWFlSXJaRmQwNkR0ZVFHcUZBT0NWM3BZNGdxbGVRM2F1d3VYUFwvRjlcL2VjUUZZOTFWSzRteExnOUNIenlabWJ3PT0iLCJtYWMiOiIxMzQwZTY3ZDQxZDBhMGY5MmNjN2M4NTllOWZiOGFjNTQxNDhkNTRkNDM3OGE0ZTRiOTljZjliN2IyZGNmMzUxIn0%3D; expires=Fri, 08-May-2026 07:22:56 GMT; Max-Age=7200; path=/; HttpOnly
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx/1.23.3
+Date: Fri, 08 May 2026 05:23:28 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.1.13
+Last-Modified: Thu, 07 May 2026 19:06:26 GMT
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:24:30 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.2.34
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-control: private, max-age=0
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Set-Cookie: xf_session=71277a258a0267a0af91aaf80397bd03; path=/; secure; HttpOnly
+Last-Modified: Fri, 08 May 2026 05:24:30 GMT
+X-Powered-By: PleskLin
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: nginx-reuseport/1.21.1
+Date: Fri, 08 May 2026 05:23:48 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 31224
+Connection: keep-alive
+Keep-Alive: timeout=30
+X-Powered-By: PHP/7.4.33
+Set-Cookie: PHPSESSID=adea5d0bb4f8b4f04bd3165a16b0bbb8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: premium_session_id=OLQ29NVYSMuFR20hsu8ol0rSPQvq38pm5z3lC8RftsE8qiIZynBwxXqoZjCcUfdv; expires=Sat, 08-May-2027 07:23:48 GMT; Max-Age=31543200; path=/; secure; HttpOnly
+Set-Cookie: site_locale=ar_AR; expires=Sat, 08-May-2027 07:23:48 GMT; Max-Age=31543200; path=/; secure; HttpOnly
+Link: <https://excoincash.com/>; rel=shortlink
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:22:18 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.25
+Location: https://e-sig.info/wp-admin/setup-config.php
+X-Powered-By: PleskLin
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:15:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34
+X-Powered-By: PHP/7.2.24
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2026 05:17:24 GMT
+Server: Apache
+X-Powered-By: PHP/7.0.33
+Set-Cookie: PHPSESSID=l351q5t1fod26946ckqf97eq70; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Location: https://www.writerbay.com/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Content-Length: 0
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:23:50 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+X-Powered-By: PHP/8.0.30
+Cache-Control: max-age=0, must-revalidate, private
+pragma: no-cache
+Expires: Fri, 08 May 2026 05:23:50 GMT
+Set-Cookie: PHPSESSID=d0fa6481c15e33a6449039e00b306cbf; path=/; secure; httponly; samesite=lax
+Vary: Accept-Encoding
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=c1jr4mKNqx7tMCRzR3nWlAZPEHhDfqFrHuWSKUmLQK7Ts%2FRXFLaIEJfmFve5YvCRY2BD0R51Tf3FkIfEqkT53Lp%2B%2FQb%2FKk%2Fc2hRKR0%2FqewhgP%2Fb%2BTkyQMVT42zcmEclKcPvTOcnSs7Du""}]}
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=16,cfOrigin;dur=287
+Content-Encoding: gzip
+CF-RAY: 9f8608e0ec742f43-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:23:55 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 24538
+Connection: keep-alive
+Keep-Alive: timeout=65
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.40
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: etik.ir=OK; expires=Sat, 09-May-2026 05:23:54 GMT; Max-Age=86400; path=/
+Set-Cookie: PHPSESSID=7oiqolkapnp474f1qs7fve40t3; path=/
+Upgrade: h2,h2c
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-FRAME-OPTIONS: “SAMEORIGIN”
+X-XSS-Protection: 1; mode=block
+Server: ArvanCloud
+Server-Timing: total;dur=579
+X-Cache: BYPASS
+X-Request-ID: 0421ac98757ccf2a8a2815d45f295aea
+X-SID: 6120
+Accept-Ranges: bytes
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:24:02 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+alt-svc: h3="":443""; ma=86400
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=oglb5G6yVOQC1g4dLpjaz61GUd0MBkojxpFY2stHS%2F5L5i3F0F8Ov3Z6LXuPxInjxS97gaKuU6cPItDs1mnpXBteDbAReFAcUK%2BvvBtc58%2BafnP4JPC3diETnmUhzp1mX0s%3D""}]}
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+Server: cloudflare
+Set-Cookie: PHPSESSID=8304ba3ca8545a3f4bd08554c0395cbc; path=/
+vary: Accept-Encoding
+vary: Accept-Encoding
+x-powered-by: PHP/5.6.40
+cf-cache-status: DYNAMIC
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+Content-Encoding: gzip
+CF-RAY: 9f86092bfeb59bf5-FRA
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:23:24 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+X-Powered-By: PHP/7.2.24
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Report-To: {""group"":""cf-nel"",""max_age"":604800,""endpoints"":[{""url"":""https://a.nel.cloudflare.com/report/v4?s=XeHZZHdrZoZUju%2BINUzIZcPNxuBbMZ%2B5%2BwfMHIK9EXwq4KC5EW5IPhx2SD3LhXk2mdEHWIJtqUFTPyPWT1c8TPMpR0d2y2jtHjDaECpl43vKE2MkfcTIDuAGCRydIebj""}]}
+Nel: {""report_to"":""cf-nel"",""success_fraction"":0.0,""max_age"":604800}
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc=""DYNAMIC""
+Server-Timing: cfEdge;dur=8,cfOrigin;dur=131
+Content-Encoding: gzip
+CF-RAY: 9f86083b1c51e8ef-LAX
+alt-svc: h3="":443""; ma=86400
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:24:06 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16
+X-Powered-By: PHP/7.4.16
+Location: /admin
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 302 Found
+Date: Fri, 08 May 2026 05:15:24 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: nginx/1.18.0 (Ubuntu)
+X-Powered-By: PHP/7.4.33
+Cache-Control: max-age=0, must-revalidate, no-store, private, s-maxage=0
+Location: https://core-ui-stage.traderinteractive.com/tradertraxx/login
+Set-Cookie: ImtAuth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly
+Set-Cookie: grid_settings=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: showInternetAdvertising=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: auth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: jwtJti=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: jwtSub=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: IMT_CUSTOMER_ID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: IMT_DEALER_NAME=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: IMT_ACTIVE_ADS=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: DEALER_WEBSITE_ID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: DEALER_WEBSITE_URL=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Set-Cookie: IMT_DEALER_REALM_ID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure
+Strict-Transport-Security: max-age=63072000
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: https://www.vtdireto.com.br/
+Server: Microsoft-IIS/10.0
+X-Powered-By: PHP/7.1.29
+X-Pingback: https://www.vtdireto.com.br/xmlrpc.php
+X-Powered-By: ASP.NET
+Date: Fri, 08 May 2026 05:23:15 GMT
+Content-Length: 3
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 08 May 2026 05:17:02 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: AWSALB=aih5dE3zKGhpHZAh2knDjz9TD9CchO0CniGur7FIcCnByASO5HzRpjC5shBXRFNn+DGbkoKNrnGlXlQyg6TDI4uhBEBgu95IVq/QmRpeQ8FJEheaSbOV3bMldiih; Expires=Fri, 15 May 2026 05:17:02 GMT; Path=/
+Set-Cookie: AWSALBCORS=aih5dE3zKGhpHZAh2knDjz9TD9CchO0CniGur7FIcCnByASO5HzRpjC5shBXRFNn+DGbkoKNrnGlXlQyg6TDI4uhBEBgu95IVq/QmRpeQ8FJEheaSbOV3bMldiih; Expires=Fri, 15 May 2026 05:17:02 GMT; Path=/; SameSite=None
+X-Powered-By: PHP/8.0.25
+Content-Encoding: gzip
+X-Cache: MISS
+X-Service: pixie-default
+"
+PHP,^PHP/([0-9.]+)$,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 05:22:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+x-powered-by: PHP/5.3.3
+set-cookie: __cf_bm=MxWGSM1ssc4FJQXLEPWALU5ynaAgZEOWDe8OHkXVFk0-1778217753.0428557-1.0.1.1-8PR4b9_aSl5aSYaiofIqwpzMZEMBJG87cXH8JmnOJjZiGx5WnBRPkPc6y1xETnScZCf.UH1Zyb9IzneCtfXLBkvwymal7QDMs551z2J9gQxf5dvEGZTEWh6L846Zhodb; HttpOnly; Secure; Path=/; Domain=sasm.com.ar; Expires=Fri, 08 May 2026 05:52:33 GMT
+vary: Accept-Encoding
+Cache-Control: max-age=86400
+expires: Sat, 09 May 2026 05:22:33 GMT
+cf-cache-status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9f8606fc8ff22eb4-LAX
+"
